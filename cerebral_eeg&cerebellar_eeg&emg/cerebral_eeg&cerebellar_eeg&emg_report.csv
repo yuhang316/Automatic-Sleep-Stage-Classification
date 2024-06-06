@@ -1,0 +1,2161 @@
+,Data,Sleep_Stage,Cata,Sample_number,Area
+0,0.8817414393427019,Wakefulness,Precision,5,Cerebral EEG
+0,0.8282139547199788,Nrem,Precision,5,Cerebral EEG
+0,0.8573649436455499,Rem,Precision,5,Cerebral EEG
+0,0.9310937706652559,Wakefulness,Recall,5,Cerebral EEG
+0,0.7264545348972244,Nrem,Recall,5,Cerebral EEG
+0,0.8573649436455499,Rem,Recall,5,Cerebral EEG
+0,0.9310937706652559,Wakefulness,Sensitivity,5,Cerebral EEG
+0,0.7264545348972244,Nrem,Sensitivity,5,Cerebral EEG
+0,0.8573649436455499,Rem,Sensitivity,5,Cerebral EEG
+0,0.7615054306643092,Wakefulness,Specificity,5,Cerebral EEG
+0,0.935732329486354,Nrem,Specificity,5,Cerebral EEG
+0,0.993330546822469,Rem,Specificity,5,Cerebral EEG
+0,0.8658015078482264,Wakefulness,Precision,5,Cerebellar EEG
+0,0.7396047627953369,Nrem,Precision,5,Cerebellar EEG
+0,0.2346014492753623,Rem,Precision,5,Cerebellar EEG
+0,0.926491204867081,Wakefulness,Recall,5,Cerebellar EEG
+0,0.6888863082104285,Nrem,Recall,5,Cerebellar EEG
+0,0.10066070734551108,Rem,Recall,5,Cerebellar EEG
+0,0.926491204867081,Wakefulness,Sensitivity,5,Cerebellar EEG
+0,0.6888863082104285,Nrem,Sensitivity,5,Cerebellar EEG
+0,0.10066070734551108,Rem,Sensitivity,5,Cerebellar EEG
+0,0.7257388229350846,Wakefulness,Specificity,5,Cerebellar EEG
+0,0.896552578136609,Nrem,Specificity,5,Cerebellar EEG
+0,0.9846439020844313,Rem,Specificity,5,Cerebellar EEG
+0,0.7634442616727825,Wakefulness,Precision,5,EMG
+0,0.7377333469346119,Nrem,Precision,5,EMG
+0,0.16094986807387862,Rem,Precision,5,EMG
+0,0.9575717497685491,Wakefulness,Recall,5,EMG
+0,0.41992799907095574,Nrem,Recall,5,EMG
+0,0.023707734162456275,Rem,Recall,5,EMG
+0,0.9575717497685491,Wakefulness,Sensitivity,5,EMG
+0,0.41992799907095574,Nrem,Sensitivity,5,EMG
+0,0.023707734162456275,Rem,Sensitivity,5,EMG
+0,0.4333417529679212,Wakefulness,Specificity,5,EMG
+0,0.936326712566249,Nrem,Specificity,5,EMG
+0,0.9942210187726025,Rem,Specificity,5,EMG
+0,0.9022312157196869,Wakefulness,Precision,5,Cerebral EEG
+0,0.7894256544801233,Nrem,Precision,5,Cerebral EEG
+0,0.8569151056197688,Rem,Precision,5,Cerebral EEG
+0,0.9021111199850917,Wakefulness,Recall,5,Cerebral EEG
+0,0.7928170466261886,Nrem,Recall,5,Cerebral EEG
+0,0.833656455990694,Rem,Recall,5,Cerebral EEG
+0,0.9021111199850917,Wakefulness,Sensitivity,5,Cerebral EEG
+0,0.7928170466261886,Nrem,Sensitivity,5,Cerebral EEG
+0,0.833656455990694,Rem,Sensitivity,5,Cerebral EEG
+0,0.8167390327893397,Wakefulness,Specificity,5,Cerebral EEG
+0,0.9080265059040407,Nrem,Specificity,5,Cerebral EEG
+0,0.9934752185529162,Rem,Specificity,5,Cerebral EEG
+0,0.7695798071038136,Wakefulness,Precision,5,Cerebellar EEG
+0,0.7743973049794716,Nrem,Precision,5,Cerebellar EEG
+0,0.2604456824512535,Rem,Precision,5,Cerebellar EEG
+0,0.9707691078987302,Wakefulness,Recall,5,Cerebellar EEG
+0,0.4213541069996563,Nrem,Recall,5,Cerebellar EEG
+0,0.07250872431174873,Rem,Recall,5,Cerebellar EEG
+0,0.9707691078987302,Wakefulness,Sensitivity,5,Cerebellar EEG
+0,0.4213541069996563,Nrem,Sensitivity,5,Cerebellar EEG
+0,0.07250872431174873,Rem,Sensitivity,5,Cerebellar EEG
+0,0.4551080501073015,Wakefulness,Specificity,5,Cerebellar EEG
+0,0.9466145184594689,Nrem,Specificity,5,Cerebellar EEG
+0,0.9903491394194944,Rem,Specificity,5,Cerebellar EEG
+0,0.7770829949650804,Wakefulness,Precision,5,EMG
+0,0.7130350194552529,Nrem,Precision,5,EMG
+0,0.053804085571819205,Rem,Precision,5,EMG
+0,0.7642360833799218,Wakefulness,Recall,5,EMG
+0,0.3358918547370833,Nrem,Recall,5,EMG
+0,0.25940286932919737,Rem,Recall,5,EMG
+0,0.7642360833799218,Wakefulness,Sensitivity,5,EMG
+0,0.3358918547370833,Nrem,Sensitivity,5,EMG
+0,0.25940286932919737,Rem,Sensitivity,5,EMG
+0,0.5890103308878575,Wakefulness,Specificity,5,EMG
+0,0.9412087090827562,Nrem,Specificity,5,EMG
+0,0.7861725522982134,Rem,Specificity,5,EMG
+0,0.8756669815415252,Wakefulness,Precision,5,Cerebral EEG
+0,0.7880662293033427,Nrem,Precision,5,Cerebral EEG
+0,0.8173948887056883,Rem,Precision,5,Cerebral EEG
+0,0.9080295449130331,Wakefulness,Recall,5,Cerebral EEG
+0,0.7313155911172957,Nrem,Recall,5,Cerebral EEG
+0,0.7686046511627908,Rem,Recall,5,Cerebral EEG
+0,0.9080295449130331,Wakefulness,Sensitivity,5,Cerebral EEG
+0,0.7313155911172957,Nrem,Sensitivity,5,Cerebral EEG
+0,0.7686046511627908,Rem,Sensitivity,5,Cerebral EEG
+0,0.7543753467493821,Wakefulness,Specificity,5,Cerebral EEG
+0,0.9159418134958986,Nrem,Specificity,5,Cerebral EEG
+0,0.9919483824063977,Rem,Specificity,5,Cerebral EEG
+0,0.8398909232567199,Wakefulness,Precision,5,Cerebellar EEG
+0,0.7041500193323882,Nrem,Precision,5,Cerebellar EEG
+0,0.41287128712871285,Rem,Precision,5,Cerebellar EEG
+0,0.9132449103857253,Wakefulness,Recall,5,Cerebellar EEG
+0,0.6335594596161651,Nrem,Recall,5,Cerebellar EEG
+0,0.16162790697674417,Rem,Recall,5,Cerebellar EEG
+0,0.9132449103857253,Wakefulness,Sensitivity,5,Cerebellar EEG
+0,0.6335594596161651,Nrem,Sensitivity,5,Cerebellar EEG
+0,0.16162790697674417,Rem,Sensitivity,5,Cerebellar EEG
+0,0.6683310637010138,Wakefulness,Specificity,5,Cerebellar EEG
+0,0.8862290288206577,Nrem,Specificity,5,Cerebellar EEG
+0,0.9892221010541621,Rem,Specificity,5,Cerebellar EEG
+0,0.7989662301860786,Wakefulness,Precision,5,EMG
+0,0.6934449724673757,Nrem,Precision,5,EMG
+0,0.1795817958179582,Rem,Precision,5,EMG
+0,0.9207370343896434,Wakefulness,Recall,5,EMG
+0,0.5330202354032585,Nrem,Recall,5,EMG
+0,0.056589147286821705,Rem,Recall,5,EMG
+0,0.9207370343896434,Wakefulness,Sensitivity,5,EMG
+0,0.5330202354032585,Nrem,Sensitivity,5,EMG
+0,0.056589147286821705,Rem,Sensitivity,5,EMG
+0,0.5586321682554093,Wakefulness,Specificity,5,EMG
+0,0.8992887765469729,Nrem,Specificity,5,EMG
+0,0.9878771355870593,Rem,Specificity,5,EMG
+0,0.891028469104404,Wakefulness,Precision,5,Cerebral EEG
+0,0.7876679747889166,Nrem,Precision,5,Cerebral EEG
+0,0.8955091151622944,Rem,Precision,5,Cerebral EEG
+0,0.9084510768905117,Wakefulness,Recall,5,Cerebral EEG
+0,0.7696374622356495,Nrem,Recall,5,Cerebral EEG
+0,0.7764070932922128,Rem,Recall,5,Cerebral EEG
+0,0.9084510768905117,Wakefulness,Sensitivity,5,Cerebral EEG
+0,0.7696374622356495,Nrem,Sensitivity,5,Cerebral EEG
+0,0.7764070932922128,Rem,Sensitivity,5,Cerebral EEG
+0,0.7879935373119257,Wakefulness,Specificity,5,Cerebral EEG
+0,0.9115826483113796,Nrem,Specificity,5,Cerebral EEG
+0,0.9957277387921317,Rem,Specificity,5,Cerebral EEG
+0,0.8128217755293907,Wakefulness,Precision,5,Cerebellar EEG
+0,0.7795586137450701,Nrem,Precision,5,Cerebellar EEG
+0,0.3557978196233895,Rem,Precision,5,Cerebellar EEG
+0,0.960787426575647,Wakefulness,Recall,5,Cerebellar EEG
+0,0.5397397164768766,Nrem,Recall,5,Cerebellar EEG
+0,0.13839629915188897,Rem,Recall,5,Cerebellar EEG
+0,0.960787426575647,Wakefulness,Sensitivity,5,Cerebellar EEG
+0,0.5397397164768766,Nrem,Sensitivity,5,Cerebellar EEG
+0,0.13839629915188897,Rem,Sensitivity,5,Cerebellar EEG
+0,0.5778047056447542,Wakefulness,Specificity,5,Cerebellar EEG
+0,0.9349559275032188,Nrem,Specificity,5,Cerebellar EEG
+0,0.9881831072973858,Rem,Specificity,5,Cerebellar EEG
+0,0.7686058700209644,Wakefulness,Precision,5,EMG
+0,0.6853066288550159,Nrem,Precision,5,EMG
+0,0.1946564885496183,Rem,Precision,5,EMG
+0,0.9312589299888872,Wakefulness,Recall,5,EMG
+0,0.44927957239135485,Nrem,Recall,5,EMG
+0,0.03932151117964534,Rem,Recall,5,EMG
+0,0.9312589299888872,Wakefulness,Sensitivity,5,EMG
+0,0.44927957239135485,Nrem,Sensitivity,5,EMG
+0,0.03932151117964534,Rem,Sensitivity,5,EMG
+0,0.4650106028476219,Wakefulness,Specificity,5,EMG
+0,0.912077844904427,Nrem,Specificity,5,EMG
+0,0.9923281096607642,Rem,Specificity,5,EMG
+0,0.9212423586172866,Wakefulness,Precision,5,Cerebral EEG
+0,0.7803660565723793,Nrem,Precision,5,Cerebral EEG
+0,0.7560659980588806,Rem,Precision,5,Cerebral EEG
+0,0.8878966419192053,Wakefulness,Recall,5,Cerebral EEG
+0,0.8204560032654965,Nrem,Recall,5,Cerebral EEG
+0,0.8981552651806303,Rem,Recall,5,Cerebral EEG
+0,0.8878966419192053,Wakefulness,Sensitivity,5,Cerebral EEG
+0,0.8204560032654965,Nrem,Sensitivity,5,Cerebral EEG
+0,0.8981552651806303,Rem,Sensitivity,5,Cerebral EEG
+0,0.8545390106830034,Wakefulness,Specificity,5,Cerebral EEG
+0,0.9021037798818323,Nrem,Specificity,5,Cerebral EEG
+0,0.986290410560384,Rem,Specificity,5,Cerebral EEG
+0,0.7841662305948021,Wakefulness,Precision,5,Cerebellar EEG
+0,0.7313432835820896,Nrem,Precision,5,Cerebellar EEG
+0,0.2916666666666667,Rem,Precision,5,Cerebellar EEG
+0,0.9502232555681788,Wakefulness,Recall,5,Cerebellar EEG
+0,0.48002798997026064,Nrem,Recall,5,Cerebellar EEG
+0,0.053804765564950036,Rem,Recall,5,Cerebellar EEG
+0,0.9502232555681788,Wakefulness,Sensitivity,5,Cerebellar EEG
+0,0.48002798997026064,Nrem,Sensitivity,5,Cerebellar EEG
+0,0.053804765564950036,Rem,Sensitivity,5,Cerebellar EEG
+0,0.4988101868259835,Wakefulness,Specificity,5,Cerebellar EEG
+0,0.9252428864552175,Nrem,Specificity,5,Cerebellar EEG
+0,0.9938179570166188,Rem,Specificity,5,Cerebellar EEG
+0,0.7555302262749072,Wakefulness,Precision,5,EMG
+0,0.6877842083505581,Nrem,Precision,5,EMG
+0,0.1478102189781022,Rem,Precision,5,EMG
+0,0.945705302650004,Wakefulness,Recall,5,EMG
+0,0.3880692751763951,Nrem,Recall,5,EMG
+0,0.03112990007686395,Rem,Recall,5,EMG
+0,0.945705302650004,Wakefulness,Sensitivity,5,EMG
+0,0.3880692751763951,Nrem,Sensitivity,5,EMG
+0,0.03112990007686395,Rem,Sensitivity,5,EMG
+0,0.4135993114272695,Wakefulness,Specificity,5,EMG
+0,0.9253170502583372,Nrem,Specificity,5,EMG
+0,0.9915087821375322,Rem,Specificity,5,EMG
+0,0.9183501683501684,Wakefulness,Precision,5,Cerebral EEG
+0,0.783684794672586,Nrem,Precision,5,Cerebral EEG
+0,0.8164970930232558,Rem,Precision,5,Cerebral EEG
+0,0.8933174854727945,Wakefulness,Recall,5,Cerebral EEG
+0,0.8232002331681726,Nrem,Recall,5,Cerebral EEG
+0,0.8692456479690522,Rem,Recall,5,Cerebral EEG
+0,0.8933174854727945,Wakefulness,Sensitivity,5,Cerebral EEG
+0,0.8232002331681726,Nrem,Sensitivity,5,Cerebral EEG
+0,0.8692456479690522,Rem,Sensitivity,5,Cerebral EEG
+0,0.8476697061803444,Wakefulness,Specificity,5,Cerebral EEG
+0,0.9036222029917171,Nrem,Specificity,5,Cerebral EEG
+0,0.9908206852676543,Rem,Specificity,5,Cerebral EEG
+0,0.7953983395159866,Wakefulness,Precision,5,Cerebellar EEG
+0,0.7483530961791831,Nrem,Precision,5,Cerebellar EEG
+0,0.3441208198489752,Rem,Precision,5,Cerebellar EEG
+0,0.9514527205493924,Wakefulness,Recall,5,Cerebellar EEG
+0,0.4966482075196736,Nrem,Recall,5,Cerebellar EEG
+0,0.12340425531914893,Rem,Recall,5,Cerebellar EEG
+0,0.9514527205493924,Wakefulness,Sensitivity,5,Cerebellar EEG
+0,0.4966482075196736,Nrem,Sensitivity,5,Cerebellar EEG
+0,0.12340425531914893,Rem,Sensitivity,5,Cerebellar EEG
+0,0.530597771023303,Wakefulness,Specificity,5,Cerebellar EEG
+0,0.929163060946965,Nrem,Specificity,5,Cerebellar EEG
+0,0.9889484685994728,Rem,Specificity,5,Cerebellar EEG
+0,0.832878005165905,Wakefulness,Precision,5,EMG
+0,0.6524586329883646,Nrem,Precision,5,EMG
+0,0.18025751072961374,Rem,Precision,5,EMG
+0,0.8857633386159535,Wakefulness,Recall,5,EMG
+0,0.6504809093558729,Nrem,Recall,5,EMG
+0,0.016247582205029015,Rem,Recall,5,EMG
+0,0.8857633386159535,Wakefulness,Sensitivity,5,EMG
+0,0.6504809093558729,Nrem,Sensitivity,5,EMG
+0,0.016247582205029015,Rem,Sensitivity,5,EMG
+0,0.6591185410334347,Wakefulness,Specificity,5,EMG
+0,0.8530349857831623,Nrem,Specificity,5,EMG
+0,0.9965282195764792,Rem,Specificity,5,EMG
+0,0.8595675894120024,Wakefulness,Precision,5,Cerebral EEG
+0,0.7678197397651539,Nrem,Precision,5,Cerebral EEG
+0,0.8686196182867288,Rem,Precision,5,Cerebral EEG
+0,0.9046251993620414,Wakefulness,Recall,5,Cerebral EEG
+0,0.6952298850574713,Nrem,Recall,5,Cerebral EEG
+0,0.7585271317829457,Rem,Recall,5,Cerebral EEG
+0,0.9046251993620414,Wakefulness,Sensitivity,5,Cerebral EEG
+0,0.6952298850574713,Nrem,Sensitivity,5,Cerebral EEG
+0,0.7585271317829457,Rem,Sensitivity,5,Cerebral EEG
+0,0.7217217217217218,Wakefulness,Specificity,5,Cerebral EEG
+0,0.9090049751243781,Nrem,Specificity,5,Cerebral EEG
+0,0.9946201381315886,Rem,Specificity,5,Cerebral EEG
+0,0.8443309348984553,Wakefulness,Precision,5,Cerebellar EEG
+0,0.7034917000572409,Nrem,Precision,5,Cerebellar EEG
+0,0.3036332179930796,Rem,Precision,5,Cerebellar EEG
+0,0.9139287612971824,Wakefulness,Recall,5,Cerebellar EEG
+0,0.6356896551724138,Nrem,Recall,5,Cerebellar EEG
+0,0.13604651162790699,Rem,Recall,5,Cerebellar EEG
+0,0.9139287612971824,Wakefulness,Sensitivity,5,Cerebellar EEG
+0,0.6356896551724138,Nrem,Sensitivity,5,Cerebellar EEG
+0,0.13604651162790699,Rem,Sensitivity,5,Cerebellar EEG
+0,0.6827327327327327,Wakefulness,Specificity,5,Cerebellar EEG
+0,0.8840298507462686,Nrem,Specificity,5,Cerebellar EEG
+0,0.9853689567430025,Rem,Specificity,5,Cerebellar EEG
+0,0.8628647298707046,Wakefulness,Precision,5,EMG
+0,0.5189939012237413,Nrem,Precision,5,EMG
+0,0.20454545454545456,Rem,Precision,5,EMG
+0,0.7255449229133439,Wakefulness,Recall,5,EMG
+0,0.7482758620689656,Nrem,Recall,5,EMG
+0,0.06976744186046512,Rem,Recall,5,EMG
+0,0.7255449229133439,Wakefulness,Sensitivity,5,EMG
+0,0.7482758620689656,Nrem,Sensitivity,5,EMG
+0,0.06976744186046512,Rem,Sensitivity,5,EMG
+0,0.7828828828828829,Wakefulness,Specificity,5,EMG
+0,0.6998258706467662,Nrem,Specificity,5,EMG
+0,0.9872773536895675,Rem,Specificity,5,EMG
+0,0.8663886162904809,Wakefulness,Precision,5,Cerebral EEG
+0,0.8367988232934412,Nrem,Precision,5,Cerebral EEG
+0,0.9277748274030801,Rem,Precision,5,Cerebral EEG
+0,0.9384284233743456,Wakefulness,Recall,5,Cerebral EEG
+0,0.7215080417363233,Nrem,Recall,5,Cerebral EEG
+0,0.6662852784134249,Rem,Recall,5,Cerebral EEG
+0,0.9384284233743456,Wakefulness,Sensitivity,5,Cerebral EEG
+0,0.7215080417363233,Nrem,Sensitivity,5,Cerebral EEG
+0,0.6662852784134249,Rem,Sensitivity,5,Cerebral EEG
+0,0.7272772797836646,Wakefulness,Specificity,5,Cerebral EEG
+0,0.9393585571261769,Nrem,Specificity,5,Cerebral EEG
+0,0.9975262832405689,Rem,Specificity,5,Cerebral EEG
+0,0.802503100687789,Wakefulness,Precision,5,Cerebellar EEG
+0,0.7180573663624511,Nrem,Precision,5,Cerebellar EEG
+0,0.22380467955239064,Rem,Precision,5,Cerebellar EEG
+0,0.9456830804389997,Wakefulness,Recall,5,Cerebellar EEG
+0,0.5079840894679195,Nrem,Recall,5,Cerebellar EEG
+0,0.08390541571319603,Rem,Recall,5,Cerebellar EEG
+0,0.9456830804389997,Wakefulness,Sensitivity,5,Cerebellar EEG
+0,0.5079840894679195,Nrem,Sensitivity,5,Cerebellar EEG
+0,0.08390541571319603,Rem,Sensitivity,5,Cerebellar EEG
+0,0.5614202013120336,Wakefulness,Specificity,5,Cerebellar EEG
+0,0.9140436737634462,Nrem,Specificity,5,Cerebellar EEG
+0,0.9861217214158391,Rem,Specificity,5,Cerebellar EEG
+0,0.7563947969315237,Wakefulness,Precision,5,EMG
+0,0.48454902817209,Nrem,Precision,5,EMG
+0,0.2736156351791531,Rem,Precision,5,EMG
+0,0.783449815311844,Wakefulness,Recall,5,EMG
+0,0.511615841355854,Nrem,Recall,5,EMG
+0,0.032036613272311214,Rem,Recall,5,EMG
+0,0.783449815311844,Wakefulness,Sensitivity,5,EMG
+0,0.511615841355854,Nrem,Sensitivity,5,EMG
+0,0.032036613272311214,Rem,Sensitivity,5,EMG
+0,0.5245129951424709,Wakefulness,Specificity,5,EMG
+0,0.7654584751447097,Nrem,Specificity,5,EMG
+0,0.9959438320782859,Rem,Specificity,5,EMG
+0,0.8846781597470162,Wakefulness,Precision,5,Cerebral EEG
+0,0.8136571138726858,Nrem,Precision,5,Cerebral EEG
+0,0.8421253822629969,Rem,Precision,5,Cerebral EEG
+0,0.9207453020490498,Wakefulness,Recall,5,Cerebral EEG
+0,0.739441083261308,Nrem,Recall,5,Cerebral EEG
+0,0.8575321136629038,Rem,Recall,5,Cerebral EEG
+0,0.9207453020490498,Wakefulness,Sensitivity,5,Cerebral EEG
+0,0.739441083261308,Nrem,Sensitivity,5,Cerebral EEG
+0,0.8575321136629038,Rem,Sensitivity,5,Cerebral EEG
+0,0.773037542662116,Wakefulness,Specificity,5,Cerebral EEG
+0,0.9269722946949932,Nrem,Specificity,5,Cerebral EEG
+0,0.9924951391034145,Rem,Specificity,5,Cerebral EEG
+0,0.765207977682475,Wakefulness,Precision,5,Cerebellar EEG
+0,0.7968019680196802,Nrem,Precision,5,Cerebellar EEG
+0,0.3293871866295265,Rem,Precision,5,Cerebellar EEG
+0,0.975581271897229,Wakefulness,Recall,5,Cerebellar EEG
+0,0.37326418899452607,Nrem,Recall,5,Cerebellar EEG
+0,0.1841183339820942,Rem,Recall,5,Cerebellar EEG
+0,0.975581271897229,Wakefulness,Sensitivity,5,Cerebellar EEG
+0,0.37326418899452607,Nrem,Sensitivity,5,Cerebellar EEG
+0,0.1841183339820942,Rem,Sensitivity,5,Cerebellar EEG
+0,0.43394900622364985,Wakefulness,Specificity,5,Cerebellar EEG
+0,0.9589514225369611,Nrem,Specificity,5,Cerebellar EEG
+0,0.9825007722919809,Rem,Specificity,5,Cerebellar EEG
+0,0.8059674123749149,Wakefulness,Precision,5,EMG
+0,0.5615923101034375,Nrem,Precision,5,EMG
+0,0.21830985915492956,Rem,Precision,5,EMG
+0,0.8166206603673426,Wakefulness,Recall,5,EMG
+0,0.6194180351483722,Nrem,Recall,5,EMG
+0,0.02413390424289607,Rem,Recall,5,EMG
+0,0.8166206603673426,Wakefulness,Sensitivity,5,EMG
+0,0.6194180351483722,Nrem,Sensitivity,5,EMG
+0,0.02413390424289607,Rem,Sensitivity,5,EMG
+0,0.6282373017466372,Wakefulness,Specificity,5,EMG
+0,0.7914772021369114,Nrem,Specificity,5,EMG
+0,0.995965910123385,Rem,Specificity,5,EMG
+0,0.9352883449748889,Wakefulness,Precision,5,Cerebral EEG
+0,0.7414320987654321,Nrem,Precision,5,Cerebral EEG
+0,0.8284023668639053,Rem,Precision,5,Cerebral EEG
+0,0.8603440951571792,Wakefulness,Recall,5,Cerebral EEG
+0,0.8683632157316368,Nrem,Recall,5,Cerebral EEG
+0,0.8465608465608465,Rem,Recall,5,Cerebral EEG
+0,0.8603440951571792,Wakefulness,Sensitivity,5,Cerebral EEG
+0,0.8683632157316368,Nrem,Sensitivity,5,Cerebral EEG
+0,0.8465608465608465,Rem,Sensitivity,5,Cerebral EEG
+0,0.8875401284109149,Wakefulness,Specificity,5,Cerebral EEG
+0,0.870106673282064,Nrem,Specificity,5,Cerebral EEG
+0,0.9915565745896568,Rem,Specificity,5,Cerebral EEG
+0,0.790760396728728,Wakefulness,Precision,5,Cerebellar EEG
+0,0.779077572154569,Nrem,Precision,5,Cerebellar EEG
+0,0.3188284518828452,Rem,Precision,5,Cerebellar EEG
+0,0.9652718776550552,Wakefulness,Recall,5,Cerebellar EEG
+0,0.4699248120300752,Nrem,Recall,5,Cerebellar EEG
+0,0.14399092970521543,Rem,Recall,5,Cerebellar EEG
+0,0.9652718776550552,Wakefulness,Sensitivity,5,Cerebellar EEG
+0,0.4699248120300752,Nrem,Sensitivity,5,Cerebellar EEG
+0,0.14399092970521543,Rem,Sensitivity,5,Cerebellar EEG
+0,0.5174558587479936,Wakefulness,Specificity,5,Cerebellar EEG
+0,0.9428429670057058,Nrem,Specificity,5,Cerebellar EEG
+0,0.9851876114568549,Rem,Specificity,5,Cerebellar EEG
+0,0.8472880463401791,Wakefulness,Precision,5,EMG
+0,0.5419201725997842,Nrem,Precision,5,EMG
+0,0.24691358024691357,Rem,Precision,5,EMG
+0,0.7689570943075617,Wakefulness,Recall,5,EMG
+0,0.7263736263736263,Nrem,Recall,5,EMG
+0,0.022675736961451247,Rem,Recall,5,EMG
+0,0.7689570943075617,Wakefulness,Sensitivity,5,EMG
+0,0.7263736263736263,Nrem,Sensitivity,5,EMG
+0,0.022675736961451247,Rem,Sensitivity,5,EMG
+0,0.7381621187800963,Wakefulness,Specificity,5,EMG
+0,0.7366410320019846,Nrem,Specificity,5,EMG
+0,0.9966699421334206,Rem,Specificity,5,EMG
+0,0.8757468631746664,Wakefulness,Precision,5,Cerebral EEG
+0,0.8374844333748444,Nrem,Precision,5,Cerebral EEG
+0,0.7572196104768301,Rem,Precision,5,Cerebral EEG
+0,0.9309779012835782,Wakefulness,Recall,5,Cerebral EEG
+0,0.699347160436767,Nrem,Recall,5,Cerebral EEG
+0,0.8998403830806065,Rem,Recall,5,Cerebral EEG
+0,0.9309779012835782,Wakefulness,Sensitivity,5,Cerebral EEG
+0,0.699347160436767,Nrem,Sensitivity,5,Cerebral EEG
+0,0.8998403830806065,Rem,Sensitivity,5,Cerebral EEG
+0,0.7481201110269997,Wakefulness,Specificity,5,Cerebral EEG
+0,0.9416991387654812,Nrem,Specificity,5,Cerebral EEG
+0,0.9868769738991542,Rem,Specificity,5,Cerebral EEG
+0,0.8119578966389591,Wakefulness,Precision,5,Cerebellar EEG
+0,0.765032154340836,Nrem,Precision,5,Cerebellar EEG
+0,0.3355855855855856,Rem,Precision,5,Cerebellar EEG
+0,0.9513563583432579,Wakefulness,Recall,5,Cerebellar EEG
+0,0.5498295684326073,Nrem,Recall,5,Cerebellar EEG
+0,0.1189146049481245,Rem,Recall,5,Cerebellar EEG
+0,0.9513563583432579,Wakefulness,Sensitivity,5,Cerebellar EEG
+0,0.5498295684326073,Nrem,Sensitivity,5,Cerebellar EEG
+0,0.1189146049481245,Rem,Sensitivity,5,Cerebellar EEG
+0,0.5798637395912187,Wakefulness,Specificity,5,Cerebellar EEG
+0,0.9274527810180934,Nrem,Specificity,5,Cerebellar EEG
+0,0.9892910298762115,Rem,Specificity,5,Cerebellar EEG
+0,0.7745042748539331,Wakefulness,Precision,5,EMG
+0,0.6540819045926979,Nrem,Precision,5,EMG
+0,0.13753723932472692,Rem,Precision,5,EMG
+0,0.9086409951038772,Wakefulness,Recall,5,EMG
+0,0.4253856375296089,Nrem,Recall,5,EMG
+0,0.11053471667996807,Rem,Recall,5,EMG
+0,0.9086409951038772,Wakefulness,Sensitivity,5,EMG
+0,0.4253856375296089,Nrem,Sensitivity,5,EMG
+0,0.11053471667996807,Rem,Sensitivity,5,EMG
+0,0.4955336866010598,Wakefulness,Specificity,5,EMG
+0,0.9033531061527388,Nrem,Specificity,5,EMG
+0,0.9684720659236941,Rem,Specificity,5,EMG
+0,0.9275322536371122,Wakefulness,Precision,5,Cerebral EEG
+0,0.7920052353165731,Nrem,Precision,5,Cerebral EEG
+0,0.8086833745146488,Rem,Precision,5,Cerebral EEG
+0,0.8954551477408241,Wakefulness,Recall,5,Cerebral EEG
+0,0.8438698431144683,Nrem,Recall,5,Cerebral EEG
+0,0.8629001883239171,Rem,Recall,5,Cerebral EEG
+0,0.8954551477408241,Wakefulness,Sensitivity,5,Cerebral EEG
+0,0.8438698431144683,Nrem,Sensitivity,5,Cerebral EEG
+0,0.8629001883239171,Rem,Sensitivity,5,Cerebral EEG
+0,0.867102944877926,Wakefulness,Specificity,5,Cerebral EEG
+0,0.9055706858133201,Nrem,Specificity,5,Cerebral EEG
+0,0.9901355901355902,Rem,Specificity,5,Cerebral EEG
+0,0.813844520358231,Wakefulness,Precision,5,Cerebellar EEG
+0,0.7100162866449511,Nrem,Precision,5,Cerebellar EEG
+0,0.20541082164328658,Rem,Precision,5,Cerebellar EEG
+0,0.9343845236517822,Wakefulness,Recall,5,Cerebellar EEG
+0,0.5066240557815224,Nrem,Recall,5,Cerebellar EEG
+0,0.1544256120527307,Rem,Recall,5,Cerebellar EEG
+0,0.9343845236517822,Wakefulness,Sensitivity,5,Cerebellar EEG
+0,0.5066240557815224,Nrem,Sensitivity,5,Cerebellar EEG
+0,0.1544256120527307,Rem,Sensitivity,5,Cerebellar EEG
+0,0.5940095645607854,Wakefulness,Specificity,5,Cerebellar EEG
+0,0.9118346125278535,Nrem,Specificity,5,Cerebellar EEG
+0,0.9711347711347711,Rem,Specificity,5,Cerebellar EEG
+0,0.8504840355374164,Wakefulness,Precision,5,EMG
+0,0.6866062085803977,Nrem,Precision,5,EMG
+0,0.12558139534883722,Rem,Precision,5,EMG
+0,0.9056578773022393,Wakefulness,Recall,5,EMG
+0,0.6862870424171993,Nrem,Recall,5,EMG
+0,0.010169491525423728,Rem,Recall,5,EMG
+0,0.9056578773022393,Wakefulness,Sensitivity,5,EMG
+0,0.6862870424171993,Nrem,Sensitivity,5,EMG
+0,0.010169491525423728,Rem,Sensitivity,5,EMG
+0,0.6975585200100679,Wakefulness,Specificity,5,EMG
+0,0.8665263679128498,Nrem,Specificity,5,EMG
+0,0.9965783965783965,Rem,Specificity,5,EMG
+0,0.9477893328468041,Wakefulness,Precision,5,Cerebral EEG
+0,0.6986263610051914,Nrem,Precision,5,Cerebral EEG
+0,0.7862232779097387,Rem,Precision,5,Cerebral EEG
+0,0.8230308151355918,Wakefulness,Recall,5,Cerebral EEG
+0,0.8895583503948523,Nrem,Recall,5,Cerebral EEG
+0,0.8796507213363706,Rem,Recall,5,Cerebral EEG
+0,0.8230308151355918,Wakefulness,Sensitivity,5,Cerebral EEG
+0,0.8895583503948523,Nrem,Sensitivity,5,Cerebral EEG
+0,0.8796507213363706,Rem,Sensitivity,5,Cerebral EEG
+0,0.9129707537128086,Wakefulness,Specificity,5,Cerebral EEG
+0,0.8380446858412541,Nrem,Specificity,5,Cerebral EEG
+0,0.988538369173671,Rem,Specificity,5,Cerebral EEG
+0,0.8237999155365774,Wakefulness,Precision,5,Cerebellar EEG
+0,0.7036802921758674,Nrem,Precision,5,Cerebellar EEG
+0,0.377027027027027,Rem,Precision,5,Cerebellar EEG
+0,0.9271474215098624,Wakefulness,Recall,5,Cerebellar EEG
+0,0.5860778005264697,Nrem,Recall,5,Cerebellar EEG
+0,0.10592255125284739,Rem,Recall,5,Cerebellar EEG
+0,0.9271474215098624,Wakefulness,Sensitivity,5,Cerebellar EEG
+0,0.5860778005264697,Nrem,Sensitivity,5,Cerebellar EEG
+0,0.10592255125284739,Rem,Sensitivity,5,Cerebellar EEG
+0,0.6193420852552081,Wakefulness,Specificity,5,Cerebellar EEG
+0,0.8958400197506481,Nrem,Specificity,5,Cerebellar EEG
+0,0.9916129971254958,Rem,Specificity,5,Cerebellar EEG
+0,0.7995201352346157,Wakefulness,Precision,5,EMG
+0,0.5015069914521468,Nrem,Precision,5,EMG
+0,0.13742690058479531,Rem,Precision,5,EMG
+0,0.7743127987114151,Wakefulness,Recall,5,EMG
+0,0.5937408599005557,Nrem,Recall,5,EMG
+0,0.03568716780561883,Rem,Recall,5,EMG
+0,0.7743127987114151,Wakefulness,Sensitivity,5,EMG
+0,0.5937408599005557,Nrem,Sensitivity,5,EMG
+0,0.03568716780561883,Rem,Sensitivity,5,EMG
+0,0.6272999138324294,Wakefulness,Specificity,5,EMG
+0,0.7509196395506728,Nrem,Specificity,5,EMG
+0,0.9892660917658189,Rem,Specificity,5,EMG
+0,0.9136686743719138,Wakefulness,Precision,5,Cerebral EEG
+0,0.774799224591526,Nrem,Precision,5,Cerebral EEG
+0,0.8209899516189059,Rem,Precision,5,Cerebral EEG
+0,0.8914182857747895,Wakefulness,Recall,5,Cerebral EEG
+0,0.810486674391657,Nrem,Recall,5,Cerebral EEG
+0,0.8610460577673692,Rem,Recall,5,Cerebral EEG
+0,0.8914182857747895,Wakefulness,Sensitivity,5,Cerebral EEG
+0,0.810486674391657,Nrem,Sensitivity,5,Cerebral EEG
+0,0.8610460577673692,Rem,Sensitivity,5,Cerebral EEG
+0,0.839471294521239,Wakefulness,Specificity,5,Cerebral EEG
+0,0.8992067426871592,Nrem,Specificity,5,Cerebral EEG
+0,0.9912605835967877,Rem,Specificity,5,Cerebral EEG
+0,0.8587379505048707,Wakefulness,Precision,5,Cerebellar EEG
+0,0.6729559748427673,Nrem,Precision,5,Cerebellar EEG
+0,0.23551637279596976,Rem,Precision,5,Cerebellar EEG
+0,0.8937212134046271,Wakefulness,Recall,5,Cerebellar EEG
+0,0.6509269988412515,Nrem,Recall,5,Cerebellar EEG
+0,0.14597970335675253,Rem,Recall,5,Cerebellar EEG
+0,0.8937212134046271,Wakefulness,Sensitivity,5,Cerebellar EEG
+0,0.6509269988412515,Nrem,Sensitivity,5,Cerebellar EEG
+0,0.14597970335675253,Rem,Sensitivity,5,Cerebellar EEG
+0,0.7198062758551105,Wakefulness,Specificity,5,Cerebellar EEG
+0,0.8646504709965295,Nrem,Specificity,5,Cerebellar EEG
+0,0.9779425124459464,Rem,Specificity,5,Cerebellar EEG
+0,0.8388032638259293,Wakefulness,Precision,5,EMG
+0,0.5121991563973203,Nrem,Precision,5,EMG
+0,0.21646341463414634,Rem,Precision,5,EMG
+0,0.7347133252157341,Wakefulness,Recall,5,EMG
+0,0.7176129779837775,Nrem,Recall,5,EMG
+0,0.02771272443403591,Rem,Recall,5,EMG
+0,0.7347133252157341,Wakefulness,Sensitivity,5,EMG
+0,0.7176129779837775,Nrem,Sensitivity,5,EMG
+0,0.02771272443403591,Rem,Sensitivity,5,EMG
+0,0.7309050549894057,Wakefulness,Specificity,5,EMG
+0,0.7075855230540407,Nrem,Specificity,5,EMG
+0,0.9953304989280134,Rem,Specificity,5,EMG
+0,0.8525549217138002,Wakefulness,Precision,5,Cerebral EEG
+0,0.8173259378192964,Nrem,Precision,5,Cerebral EEG
+0,0.8224195338512763,Rem,Precision,5,Cerebral EEG
+0,0.9303576158940398,Wakefulness,Recall,5,Cerebral EEG
+0,0.6489164445474562,Nrem,Recall,5,Cerebral EEG
+0,0.8576388888888888,Rem,Recall,5,Cerebral EEG
+0,0.9303576158940398,Wakefulness,Sensitivity,5,Cerebral EEG
+0,0.6489164445474562,Nrem,Sensitivity,5,Cerebral EEG
+0,0.8576388888888888,Rem,Sensitivity,5,Cerebral EEG
+0,0.6940050377833753,Wakefulness,Specificity,5,Cerebral EEG
+0,0.9379554806405235,Nrem,Specificity,5,Cerebral EEG
+0,0.9912739965095986,Rem,Specificity,5,Cerebral EEG
+0,0.8591450770729757,Wakefulness,Precision,5,Cerebellar EEG
+0,0.6864873245988061,Nrem,Precision,5,Cerebellar EEG
+0,0.18335472828412494,Rem,Precision,5,Cerebellar EEG
+0,0.9109668874172185,Wakefulness,Recall,5,Cerebellar EEG
+0,0.5130953760574806,Nrem,Recall,5,Cerebellar EEG
+0,0.3306327160493827,Rem,Recall,5,Cerebellar EEG
+0,0.9109668874172185,Wakefulness,Sensitivity,5,Cerebellar EEG
+0,0.5130953760574806,Nrem,Sensitivity,5,Cerebellar EEG
+0,0.3306327160493827,Rem,Sensitivity,5,Cerebellar EEG
+0,0.7159697732997481,Wakefulness,Specificity,5,Cerebellar EEG
+0,0.8997570769917208,Nrem,Specificity,5,Cerebellar EEG
+0,0.9306100930773705,Rem,Specificity,5,Cerebellar EEG
+0,0.7616459806111405,Wakefulness,Precision,5,EMG
+0,0.5675525143220879,Nrem,Precision,5,EMG
+0,0.14392523364485982,Rem,Precision,5,EMG
+0,0.8761854304635761,Wakefulness,Recall,5,EMG
+0,0.4133155637965002,Nrem,Recall,5,EMG
+0,0.08912037037037036,Rem,Recall,5,EMG
+0,0.8761854304635761,Wakefulness,Sensitivity,5,EMG
+0,0.4133155637965002,Nrem,Sensitivity,5,EMG
+0,0.08912037037037036,Rem,Sensitivity,5,EMG
+0,0.47853904282115867,Wakefulness,Specificity,5,EMG
+0,0.8652768826533141,Nrem,Specificity,5,EMG
+0,0.975021815008726,Rem,Specificity,5,EMG
+0,0.9148936170212766,Wakefulness,Precision,5,Cerebral EEG
+0,0.781448890364713,Nrem,Precision,5,Cerebral EEG
+0,0.8603461841070024,Rem,Precision,5,Cerebral EEG
+0,0.8959282007836492,Wakefulness,Recall,5,Cerebral EEG
+0,0.8196435827480119,Nrem,Recall,5,Cerebral EEG
+0,0.8408304498269896,Rem,Recall,5,Cerebral EEG
+0,0.8959282007836492,Wakefulness,Sensitivity,5,Cerebral EEG
+0,0.8196435827480119,Nrem,Sensitivity,5,Cerebral EEG
+0,0.8408304498269896,Rem,Sensitivity,5,Cerebral EEG
+0,0.841234617712326,Wakefulness,Specificity,5,Cerebral EEG
+0,0.9021871052436033,Nrem,Specificity,5,Cerebral EEG
+0,0.9935453371879489,Rem,Specificity,5,Cerebral EEG
+0,0.8844610311597352,Wakefulness,Precision,5,Cerebellar EEG
+0,0.7234633569739952,Nrem,Precision,5,Cerebellar EEG
+0,0.19563822963438102,Rem,Precision,5,Cerebellar EEG
+0,0.9160489251297257,Wakefulness,Recall,5,Cerebellar EEG
+0,0.7105706158936553,Nrem,Recall,5,Cerebellar EEG
+0,0.11726259131103421,Rem,Recall,5,Cerebellar EEG
+0,0.9160489251297257,Wakefulness,Sensitivity,5,Cerebellar EEG
+0,0.7105706158936553,Nrem,Sensitivity,5,Cerebellar EEG
+0,0.11726259131103421,Rem,Sensitivity,5,Cerebellar EEG
+0,0.7720395400443817,Wakefulness,Specificity,5,Cerebellar EEG
+0,0.8841057142149457,Nrem,Specificity,5,Cerebellar EEG
+0,0.9771995854470081,Rem,Specificity,5,Cerebellar EEG
+0,0.8386946820379323,Wakefulness,Precision,5,EMG
+0,0.5013425239450167,Nrem,Precision,5,EMG
+0,0.22955145118733508,Rem,Precision,5,EMG
+0,0.7164831091814042,Wakefulness,Recall,5,EMG
+0,0.7261856388227782,Nrem,Recall,5,EMG
+0,0.03344867358708189,Rem,Recall,5,EMG
+0,0.7164831091814042,Wakefulness,Sensitivity,5,EMG
+0,0.7261856388227782,Nrem,Sensitivity,5,EMG
+0,0.03344867358708189,Rem,Sensitivity,5,EMG
+0,0.7374924349404882,Wakefulness,Specificity,5,EMG
+0,0.6917989745622074,Nrem,Specificity,5,EMG
+0,0.9946908125602284,Rem,Specificity,5,EMG
+0,0.889202172096909,Wakefulness,Precision,5,Cerebral EEG
+0,0.7836675349851578,Nrem,Precision,5,Cerebral EEG
+0,0.8261025457153102,Rem,Precision,5,Cerebral EEG
+0,0.9019649382977597,Wakefulness,Recall,5,Cerebral EEG
+0,0.7514376996805112,Nrem,Recall,5,Cerebral EEG
+0,0.8783835303088067,Rem,Recall,5,Cerebral EEG
+0,0.9019649382977597,Wakefulness,Sensitivity,5,Cerebral EEG
+0,0.7514376996805112,Nrem,Sensitivity,5,Cerebral EEG
+0,0.8783835303088067,Rem,Sensitivity,5,Cerebral EEG
+0,0.786067143865309,Wakefulness,Specificity,5,Cerebral EEG
+0,0.9115760802278073,Nrem,Specificity,5,Cerebral EEG
+0,0.9911781290357786,Rem,Specificity,5,Cerebral EEG
+0,0.8129135295459731,Wakefulness,Precision,5,Cerebellar EEG
+0,0.7401562739390225,Nrem,Precision,5,Cerebellar EEG
+0,0.2807262569832402,Rem,Precision,5,Cerebellar EEG
+0,0.9435411259996822,Wakefulness,Recall,5,Cerebellar EEG
+0,0.5612547197211734,Nrem,Recall,5,Cerebellar EEG
+0,0.07662981319100266,Rem,Recall,5,Cerebellar EEG
+0,0.9435411259996822,Wakefulness,Sensitivity,5,Cerebellar EEG
+0,0.5612547197211734,Nrem,Sensitivity,5,Cerebellar EEG
+0,0.07662981319100266,Rem,Sensitivity,5,Cerebellar EEG
+0,0.5866518802298619,Wakefulness,Specificity,5,Cerebellar EEG
+0,0.9160084189674385,Nrem,Specificity,5,Cerebellar EEG
+0,0.9906324462957237,Rem,Specificity,5,Cerebellar EEG
+0,0.8610752435731893,Wakefulness,Precision,5,EMG
+0,0.5571163872969362,Nrem,Precision,5,EMG
+0,0.06624605678233439,Rem,Precision,5,EMG
+0,0.7770245220062497,Wakefulness,Recall,5,EMG
+0,0.7510310775486494,Nrem,Recall,5,EMG
+0,0.008006099885627144,Rem,Recall,5,EMG
+0,0.7770245220062497,Wakefulness,Sensitivity,5,EMG
+0,0.7510310775486494,Nrem,Sensitivity,5,EMG
+0,0.008006099885627144,Rem,Sensitivity,5,EMG
+0,0.7613670732936788,Wakefulness,Specificity,5,EMG
+0,0.7454995666707936,Nrem,Specificity,5,EMG
+0,0.9946159302981247,Rem,Specificity,5,EMG
+0,0.8840029142381349,Wakefulness,Precision,5,Cerebral EEG
+0,0.7840202057537116,Nrem,Precision,5,Cerebral EEG
+0,0.7928449744463373,Rem,Precision,5,Cerebral EEG
+0,0.9021961388320896,Wakefulness,Recall,5,Cerebral EEG
+0,0.7333755906419269,Nrem,Recall,5,Cerebral EEG
+0,0.8988026264967168,Rem,Recall,5,Cerebral EEG
+0,0.9021961388320896,Wakefulness,Sensitivity,5,Cerebral EEG
+0,0.7333755906419269,Nrem,Sensitivity,5,Cerebral EEG
+0,0.8988026264967168,Rem,Sensitivity,5,Cerebral EEG
+0,0.7764629193200622,Wakefulness,Specificity,5,Cerebral EEG
+0,0.9128857526213785,Nrem,Specificity,5,Cerebral EEG
+0,0.988947665012452,Rem,Specificity,5,Cerebral EEG
+0,0.8057891911238368,Wakefulness,Precision,5,Cerebellar EEG
+0,0.7674576271186441,Nrem,Precision,5,Cerebellar EEG
+0,0.26003649635036497,Rem,Precision,5,Cerebellar EEG
+0,0.956581777624346,Wakefulness,Recall,5,Cerebellar EEG
+0,0.5218393453958742,Nrem,Recall,5,Cerebellar EEG
+0,0.1100811123986095,Rem,Recall,5,Cerebellar EEG
+0,0.956581777624346,Wakefulness,Sensitivity,5,Cerebellar EEG
+0,0.5218393453958742,Nrem,Sensitivity,5,Cerebellar EEG
+0,0.1100811123986095,Rem,Sensitivity,5,Cerebellar EEG
+0,0.5646592789449932,Wakefulness,Specificity,5,Cerebellar EEG
+0,0.9318193112358992,Nrem,Specificity,5,Cerebellar EEG
+0,0.9852574939557543,Rem,Specificity,5,Cerebellar EEG
+0,0.7919362867098059,Wakefulness,Precision,5,EMG
+0,0.6977409638554217,Nrem,Precision,5,EMG
+0,0.22131147540983606,Rem,Precision,5,EMG
+0,0.929495180178984,Wakefulness,Recall,5,EMG
+0,0.5339403019476777,Nrem,Recall,5,EMG
+0,0.010428736964078795,Rem,Recall,5,EMG
+0,0.929495180178984,Wakefulness,Sensitivity,5,EMG
+0,0.5339403019476777,Nrem,Sensitivity,5,EMG
+0,0.010428736964078795,Rem,Sensitivity,5,EMG
+0,0.5388858246001104,Wakefulness,Specificity,5,EMG
+0,0.900263380211698,Nrem,Specificity,5,EMG
+0,0.9982730726581956,Rem,Specificity,5,EMG
+0,0.9316941477008824,Wakefulness,Precision,5,Cerebral EEG
+0,0.7243539926170585,Nrem,Precision,5,Cerebral EEG
+0,0.843603744149766,Rem,Precision,5,Cerebral EEG
+0,0.8503788882412167,Wakefulness,Recall,5,Cerebral EEG
+0,0.8620231213872832,Nrem,Recall,5,Cerebral EEG
+0,0.8455824863174355,Rem,Recall,5,Cerebral EEG
+0,0.8503788882412167,Wakefulness,Sensitivity,5,Cerebral EEG
+0,0.8620231213872832,Nrem,Sensitivity,5,Cerebral EEG
+0,0.8455824863174355,Rem,Sensitivity,5,Cerebral EEG
+0,0.8815087118541646,Wakefulness,Specificity,5,Cerebral EEG
+0,0.859181141439206,Nrem,Specificity,5,Cerebral EEG
+0,0.9927146542640166,Rem,Specificity,5,Cerebral EEG
+0,0.8309530054123649,Wakefulness,Precision,5,Cerebellar EEG
+0,0.730374226223973,Nrem,Precision,5,Cerebellar EEG
+0,0.3672903672903673,Rem,Precision,5,Cerebellar EEG
+0,0.9234009856393408,Wakefulness,Recall,5,Cerebellar EEG
+0,0.6001734104046242,Nrem,Recall,5,Cerebellar EEG
+0,0.2071931196247068,Rem,Recall,5,Cerebellar EEG
+0,0.9234009856393408,Wakefulness,Sensitivity,5,Cerebellar EEG
+0,0.6001734104046242,Nrem,Sensitivity,5,Cerebellar EEG
+0,0.2071931196247068,Rem,Sensitivity,5,Cerebellar EEG
+0,0.6429650518682647,Wakefulness,Specificity,5,Cerebellar EEG
+0,0.9048883374689827,Nrem,Specificity,5,Cerebellar EEG
+0,0.9834126666908906,Rem,Specificity,5,Cerebellar EEG
+0,0.9024479235770201,Wakefulness,Precision,5,EMG
+0,0.5272032969110363,Nrem,Precision,5,EMG
+0,0.15653040877367896,Rem,Precision,5,EMG
+0,0.7208679985162418,Wakefulness,Recall,5,EMG
+0,0.8060115606936417,Nrem,Recall,5,EMG
+0,0.06137607505863956,Rem,Recall,5,EMG
+0,0.7208679985162418,Wakefulness,Sensitivity,5,EMG
+0,0.8060115606936417,Nrem,Sensitivity,5,EMG
+0,0.06137607505863956,Rem,Sensitivity,5,EMG
+0,0.8518984792023366,Wakefulness,Specificity,5,EMG
+0,0.6897022332506203,Nrem,Specificity,5,EMG
+0,0.9846299189709676,Rem,Specificity,5,EMG
+0,0.8433926831007679,Wakefulness,Precision,5,Cerebral EEG
+0,0.8190739037105182,Nrem,Precision,5,Cerebral EEG
+0,0.8127762153475291,Rem,Precision,5,Cerebral EEG
+0,0.9356523115061052,Wakefulness,Recall,5,Cerebral EEG
+0,0.6226832964214943,Nrem,Recall,5,Cerebral EEG
+0,0.8018232263178755,Rem,Recall,5,Cerebral EEG
+0,0.9356523115061052,Wakefulness,Sensitivity,5,Cerebral EEG
+0,0.6226832964214943,Nrem,Sensitivity,5,Cerebral EEG
+0,0.8018232263178755,Rem,Sensitivity,5,Cerebral EEG
+0,0.6652609115390478,Wakefulness,Specificity,5,Cerebral EEG
+0,0.9416448246872063,Nrem,Specificity,5,Cerebral EEG
+0,0.9915391179621258,Rem,Specificity,5,Cerebral EEG
+0,0.8060785668129861,Wakefulness,Precision,5,Cerebellar EEG
+0,0.7643195610607698,Nrem,Precision,5,Cerebellar EEG
+0,0.4682080924855491,Rem,Precision,5,Cerebellar EEG
+0,0.9540335979324349,Wakefulness,Recall,5,Cerebellar EEG
+0,0.5358433383844271,Nrem,Recall,5,Cerebellar EEG
+0,0.12841854934601665,Rem,Recall,5,Cerebellar EEG
+0,0.9540335979324349,Wakefulness,Sensitivity,5,Cerebellar EEG
+0,0.5358433383844271,Nrem,Sensitivity,5,Cerebellar EEG
+0,0.12841854934601665,Rem,Sensitivity,5,Cerebellar EEG
+0,0.5577968599156546,Wakefulness,Specificity,5,Cerebellar EEG
+0,0.9298996093170466,Nrem,Specificity,5,Cerebellar EEG
+0,0.9933184450859706,Rem,Specificity,5,Cerebellar EEG
+0,0.7464345480430602,Wakefulness,Precision,5,EMG
+0,0.46984145220588236,Nrem,Precision,5,EMG
+0,0.14193548387096774,Rem,Precision,5,EMG
+0,0.7881273240328067,Wakefulness,Recall,5,EMG
+0,0.4766872595873645,Nrem,Recall,5,EMG
+0,0.008719778042013475,Rem,Recall,5,EMG
+0,0.7881273240328067,Wakefulness,Sensitivity,5,EMG
+0,0.4766872595873645,Nrem,Sensitivity,5,EMG
+0,0.008719778042013475,Rem,Sensitivity,5,EMG
+0,0.48417255220771305,Wakefulness,Specificity,5,EMG
+0,0.7717966470500964,Nrem,Specificity,5,EMG
+0,0.9975851989033535,Rem,Specificity,5,EMG
+0,0.9217375759742581,Wakefulness,Precision,10,Cerebral EEG
+0,0.8065618591934381,Nrem,Precision,10,Cerebral EEG
+0,0.8148327678138633,Rem,Precision,10,Cerebral EEG
+0,0.9086775694346538,Wakefulness,Recall,10,Cerebral EEG
+0,0.8255597014925373,Nrem,Recall,10,Cerebral EEG
+0,0.8559063136456212,Rem,Recall,10,Cerebral EEG
+0,0.9086775694346538,Wakefulness,Sensitivity,10,Cerebral EEG
+0,0.8255597014925373,Nrem,Sensitivity,10,Cerebral EEG
+0,0.8559063136456212,Rem,Sensitivity,10,Cerebral EEG
+0,0.8523738872403561,Wakefulness,Specificity,10,Cerebral EEG
+0,0.9160403481012658,Nrem,Specificity,10,Cerebral EEG
+0,0.9907362498787468,Rem,Specificity,10,Cerebral EEG
+0,0.7954227812718379,Wakefulness,Precision,10,Cerebellar EEG
+0,0.7735653077122825,Nrem,Precision,10,Cerebellar EEG
+0,0.2824956672443674,Rem,Precision,10,Cerebellar EEG
+0,0.9628506978711405,Wakefulness,Recall,10,Cerebellar EEG
+0,0.4631529850746269,Nrem,Recall,10,Cerebellar EEG
+0,0.1659877800407332,Rem,Recall,10,Cerebellar EEG
+0,0.9628506978711405,Wakefulness,Sensitivity,10,Cerebellar EEG
+0,0.4631529850746269,Nrem,Sensitivity,10,Cerebellar EEG
+0,0.1659877800407332,Rem,Sensitivity,10,Cerebellar EEG
+0,0.5261667116266523,Wakefulness,Specificity,10,Cerebellar EEG
+0,0.9425105485232067,Nrem,Specificity,10,Cerebellar EEG
+0,0.979920457852362,Rem,Specificity,10,Cerebellar EEG
+0,0.81649283911576,Wakefulness,Precision,10,EMG
+0,0.7310257224515719,Nrem,Precision,10,EMG
+0,0.1535796766743649,Rem,Precision,10,EMG
+0,0.9464260538559143,Wakefulness,Recall,10,EMG
+0,0.5368470149253731,Nrem,Recall,10,EMG
+0,0.06771894093686355,Rem,Recall,10,EMG
+0,0.9464260538559143,Wakefulness,Sensitivity,10,EMG
+0,0.5368470149253731,Nrem,Sensitivity,10,EMG
+0,0.06771894093686355,Rem,Sensitivity,10,EMG
+0,0.5929997302400863,Wakefulness,Specificity,10,EMG
+0,0.9162381329113924,Nrem,Specificity,10,EMG
+0,0.9822242700552914,Rem,Specificity,10,EMG
+0,0.8955099677991244,Wakefulness,Precision,10,Cerebral EEG
+0,0.7601930557556548,Nrem,Precision,10,Cerebral EEG
+0,0.8927933293627159,Rem,Precision,10,Cerebral EEG
+0,0.8839011499178631,Wakefulness,Recall,10,Cerebral EEG
+0,0.7945339557295588,Nrem,Recall,10,Cerebral EEG
+0,0.7823590814196242,Rem,Recall,10,Cerebral EEG
+0,0.8839011499178631,Wakefulness,Sensitivity,10,Cerebral EEG
+0,0.7945339557295588,Nrem,Sensitivity,10,Cerebral EEG
+0,0.7823590814196242,Rem,Sensitivity,10,Cerebral EEG
+0,0.8099749967100934,Wakefulness,Specificity,10,Cerebral EEG
+0,0.8887291931278829,Nrem,Specificity,10,Cerebral EEG
+0,0.995639957368472,Rem,Specificity,10,Cerebral EEG
+0,0.8510123091410506,Wakefulness,Precision,10,Cerebellar EEG
+0,0.6885231702035514,Nrem,Precision,10,Cerebellar EEG
+0,0.21863612701717855,Rem,Precision,10,Cerebellar EEG
+0,0.9036497393043355,Wakefulness,Recall,10,Cerebellar EEG
+0,0.5984791447071224,Nrem,Recall,10,Cerebellar EEG
+0,0.21920668058455114,Rem,Recall,10,Cerebellar EEG
+0,0.9036497393043355,Wakefulness,Sensitivity,10,Cerebellar EEG
+0,0.5984791447071224,Nrem,Sensitivity,10,Cerebellar EEG
+0,0.21920668058455114,Rem,Sensitivity,10,Cerebellar EEG
+0,0.7085142781944993,Wakefulness,Specificity,10,Cerebellar EEG
+0,0.879804799786082,Nrem,Specificity,10,Cerebellar EEG
+0,0.9636420889448697,Rem,Specificity,10,Cerebellar EEG
+0,0.9377818778187782,Wakefulness,Precision,10,EMG
+0,0.5137194469414836,Nrem,Precision,10,EMG
+0,0.18960244648318042,Rem,Precision,10,EMG
+0,0.6534533247625169,Wakefulness,Recall,10,EMG
+0,0.9035536816744466,Nrem,Recall,10,EMG
+0,0.032359081419624215,Rem,Recall,10,EMG
+0,0.6534533247625169,Wakefulness,Sensitivity,10,EMG
+0,0.9035536816744466,Nrem,Sensitivity,10,EMG
+0,0.032359081419624215,Rem,Sensitivity,10,EMG
+0,0.9201210685616529,Wakefulness,Specificity,10,EMG
+0,0.6202954742964102,Nrem,Specificity,10,EMG
+0,0.9935810483480283,Rem,Specificity,10,EMG
+0,0.9405652535328346,Wakefulness,Precision,10,Cerebral EEG
+0,0.7637377584330794,Nrem,Precision,10,Cerebral EEG
+0,0.8369458128078818,Rem,Precision,10,Cerebral EEG
+0,0.8763289445891713,Wakefulness,Recall,10,Cerebral EEG
+0,0.8714884370634798,Nrem,Recall,10,Cerebral EEG
+0,0.890461215932914,Rem,Recall,10,Cerebral EEG
+0,0.8763289445891713,Wakefulness,Sensitivity,10,Cerebral EEG
+0,0.8714884370634798,Nrem,Sensitivity,10,Cerebral EEG
+0,0.890461215932914,Rem,Sensitivity,10,Cerebral EEG
+0,0.8936731107205624,Wakefulness,Specificity,10,Cerebral EEG
+0,0.8853994853862902,Nrem,Specificity,10,Cerebral EEG
+0,0.9919839194032742,Rem,Specificity,10,Cerebral EEG
+0,0.8593837905814607,Wakefulness,Precision,10,Cerebellar EEG
+0,0.7172513133367225,Nrem,Precision,10,Cerebellar EEG
+0,0.3336155800169348,Rem,Precision,10,Cerebellar EEG
+0,0.9141730620291487,Wakefulness,Recall,10,Cerebellar EEG
+0,0.6569144808319106,Nrem,Recall,10,Cerebellar EEG
+0,0.20649895178197064,Rem,Recall,10,Cerebellar EEG
+0,0.9141730620291487,Wakefulness,Sensitivity,10,Cerebellar EEG
+0,0.6569144808319106,Nrem,Sensitivity,10,Cerebellar EEG
+0,0.20649895178197064,Rem,Sensitivity,10,Cerebellar EEG
+0,0.7127889685007436,Wakefulness,Specificity,10,Cerebellar EEG
+0,0.8899188493765257,Nrem,Specificity,10,Cerebellar EEG
+0,0.9809406180373922,Rem,Specificity,10,Cerebellar EEG
+0,0.8263409783081609,Wakefulness,Precision,10,EMG
+0,0.732484076433121,Nrem,Precision,10,EMG
+0,0.2751322751322751,Rem,Precision,10,EMG
+0,0.9360698443990706,Wakefulness,Recall,10,EMG
+0,0.6157845724041595,Nrem,Recall,10,EMG
+0,0.027253668763102725,Rem,Recall,10,EMG
+0,0.9360698443990706,Wakefulness,Sensitivity,10,EMG
+0,0.6157845724041595,Nrem,Sensitivity,10,EMG
+0,0.027253668763102725,Rem,Sensitivity,10,EMG
+0,0.6222793024198999,Wakefulness,Specificity,10,EMG
+0,0.9044006069802731,Nrem,Specificity,10,EMG
+0,0.9966821660370048,Rem,Specificity,10,EMG
+0,0.9016421661445244,Wakefulness,Precision,10,Cerebral EEG
+0,0.8315125030347171,Nrem,Precision,10,Cerebral EEG
+0,0.8981069042316259,Rem,Precision,10,Cerebral EEG
+0,0.929547471162378,Wakefulness,Recall,10,Cerebral EEG
+0,0.7867534456355283,Nrem,Recall,10,Cerebral EEG
+0,0.8208651399491094,Rem,Recall,10,Cerebral EEG
+0,0.929547471162378,Wakefulness,Sensitivity,10,Cerebral EEG
+0,0.7867534456355283,Nrem,Sensitivity,10,Cerebral EEG
+0,0.8208651399491094,Rem,Sensitivity,10,Cerebral EEG
+0,0.8098502495840266,Wakefulness,Specificity,10,Cerebral EEG
+0,0.9309223623092236,Nrem,Specificity,10,Cerebral EEG
+0,0.9955620225536559,Rem,Specificity,10,Cerebral EEG
+0,0.9025519618424259,Wakefulness,Precision,10,Cerebellar EEG
+0,0.7449033724895794,Nrem,Precision,10,Cerebellar EEG
+0,0.3408736349453978,Rem,Precision,10,Cerebellar EEG
+0,0.9201064773735581,Wakefulness,Recall,10,Cerebellar EEG
+0,0.7526033690658499,Nrem,Recall,10,Cerebellar EEG
+0,0.2223918575063613,Rem,Recall,10,Cerebellar EEG
+0,0.9201064773735581,Wakefulness,Sensitivity,10,Cerebellar EEG
+0,0.7526033690658499,Nrem,Sensitivity,10,Cerebellar EEG
+0,0.2223918575063613,Rem,Sensitivity,10,Cerebellar EEG
+0,0.8137104825291182,Wakefulness,Specificity,10,Cerebellar EEG
+0,0.8883211678832117,Nrem,Specificity,10,Cerebellar EEG
+0,0.9795076997696132,Rem,Specificity,10,Cerebellar EEG
+0,0.8658036101564845,Wakefulness,Precision,10,EMG
+0,0.7232246573220785,Nrem,Precision,10,EMG
+0,0.17721518987341772,Rem,Precision,10,EMG
+0,0.9209937888198758,Wakefulness,Recall,10,EMG
+0,0.715084226646248,Nrem,Recall,10,EMG
+0,0.028498727735368958,Rem,Recall,10,EMG
+0,0.9209937888198758,Wakefulness,Sensitivity,10,EMG
+0,0.715084226646248,Nrem,Sensitivity,10,EMG
+0,0.028498727735368958,Rem,Sensitivity,10,EMG
+0,0.7323128119800333,Wakefulness,Specificity,10,EMG
+0,0.8814200398142004,Nrem,Specificity,10,EMG
+0,0.9936946768521887,Rem,Specificity,10,EMG
+0,0.8794161552496268,Wakefulness,Precision,10,Cerebral EEG
+0,0.8578770157717526,Nrem,Precision,10,Cerebral EEG
+0,0.896551724137931,Rem,Precision,10,Cerebral EEG
+0,0.9440883190883191,Wakefulness,Recall,10,Cerebral EEG
+0,0.7373391211636585,Nrem,Recall,10,Cerebral EEG
+0,0.7973856209150327,Rem,Recall,10,Cerebral EEG
+0,0.9440883190883191,Wakefulness,Sensitivity,10,Cerebral EEG
+0,0.7373391211636585,Nrem,Sensitivity,10,Cerebral EEG
+0,0.7973856209150327,Rem,Sensitivity,10,Cerebral EEG
+0,0.7595899470899471,Wakefulness,Specificity,10,Cerebral EEG
+0,0.9466560244770361,Nrem,Specificity,10,Cerebral EEG
+0,0.9955594380141224,Rem,Specificity,10,Cerebral EEG
+0,0.8614260092721059,Wakefulness,Precision,10,Cerebellar EEG
+0,0.7147613762486127,Nrem,Precision,10,Cerebellar EEG
+0,0.28309178743961355,Rem,Precision,10,Cerebellar EEG
+0,0.9065527065527066,Wakefulness,Recall,10,Cerebellar EEG
+0,0.6866194501561191,Nrem,Recall,10,Cerebellar EEG
+0,0.14731020613373555,Rem,Recall,10,Cerebellar EEG
+0,0.9065527065527066,Wakefulness,Sensitivity,10,Cerebellar EEG
+0,0.6866194501561191,Nrem,Sensitivity,10,Cerebellar EEG
+0,0.14731020613373555,Rem,Sensitivity,10,Cerebellar EEG
+0,0.7291666666666666,Wakefulness,Specificity,10,Cerebellar EEG
+0,0.8803418803418803,Nrem,Specificity,10,Cerebellar EEG
+0,0.9819950983960593,Rem,Specificity,10,Cerebellar EEG
+0,0.794545888530851,Wakefulness,Precision,10,EMG
+0,0.7391442155309034,Nrem,Precision,10,EMG
+0,0.273972602739726,Rem,Precision,10,EMG
+0,0.9483618233618234,Wakefulness,Recall,10,EMG
+0,0.5327850125656842,Nrem,Recall,10,EMG
+0,0.030165912518853696,Rem,Recall,10,EMG
+0,0.9483618233618234,Wakefulness,Sensitivity,10,EMG
+0,0.5327850125656842,Nrem,Sensitivity,10,EMG
+0,0.030165912518853696,Rem,Sensitivity,10,EMG
+0,0.5445767195767196,Wakefulness,Specificity,10,EMG
+0,0.9178888556320463,Nrem,Specificity,10,EMG
+0,0.9961418067991555,Rem,Specificity,10,EMG
+0,0.9317172599548664,Wakefulness,Precision,10,Cerebral EEG
+0,0.8057357711589501,Nrem,Precision,10,Cerebral EEG
+0,0.8112858464384829,Rem,Precision,10,Cerebral EEG
+0,0.9032781678958326,Wakefulness,Recall,10,Cerebral EEG
+0,0.8453743811881188,Nrem,Recall,10,Cerebral EEG
+0,0.9073978272115882,Rem,Recall,10,Cerebral EEG
+0,0.9032781678958326,Wakefulness,Sensitivity,10,Cerebral EEG
+0,0.8453743811881188,Nrem,Sensitivity,10,Cerebral EEG
+0,0.9073978272115882,Rem,Sensitivity,10,Cerebral EEG
+0,0.8737635421573245,Wakefulness,Specificity,10,Cerebral EEG
+0,0.912955866807611,Nrem,Specificity,10,Cerebral EEG
+0,0.990113165483316,Rem,Specificity,10,Cerebral EEG
+0,0.8491406951391561,Wakefulness,Precision,10,Cerebellar EEG
+0,0.7485518944069889,Nrem,Precision,10,Cerebellar EEG
+0,0.24240378122889938,Rem,Precision,10,Cerebellar EEG
+0,0.934507216203818,Wakefulness,Recall,10,Cerebellar EEG
+0,0.6097617574257426,Nrem,Recall,10,Cerebellar EEG
+0,0.18572167615106053,Rem,Recall,10,Cerebellar EEG
+0,0.934507216203818,Wakefulness,Sensitivity,10,Cerebellar EEG
+0,0.6097617574257426,Nrem,Sensitivity,10,Cerebellar EEG
+0,0.18572167615106053,Rem,Sensitivity,10,Cerebellar EEG
+0,0.6833995020523518,Wakefulness,Specificity,10,Cerebellar EEG
+0,0.9125264270613108,Nrem,Specificity,10,Cerebellar EEG
+0,0.9728112050791189,Rem,Specificity,10,Cerebellar EEG
+0,0.815126592485083,Wakefulness,Precision,10,EMG
+0,0.6428317955997161,Nrem,Precision,10,EMG
+0,0.21451787648970747,Rem,Precision,10,EMG
+0,0.8918098733194537,Wakefulness,Recall,10,EMG
+0,0.5604888613861386,Nrem,Recall,10,EMG
+0,0.1024314536989136,Rem,Recall,10,EMG
+0,0.8918098733194537,Wakefulness,Sensitivity,10,EMG
+0,0.5604888613861386,Nrem,Sensitivity,10,EMG
+0,0.1024314536989136,Rem,Sensitivity,10,EMG
+0,0.6142924433079874,Wakefulness,Specificity,10,EMG
+0,0.8670058139534884,Nrem,Specificity,10,EMG
+0,0.9824314827828531,Rem,Specificity,10,EMG
+0,0.9017758430071863,Wakefulness,Precision,10,Cerebral EEG
+0,0.8189585028478438,Nrem,Precision,10,Cerebral EEG
+0,0.8341810783316378,Rem,Precision,10,Cerebral EEG
+0,0.9200535796115478,Wakefulness,Recall,10,Cerebral EEG
+0,0.7781815370341735,Nrem,Recall,10,Cerebral EEG
+0,0.8645229309435951,Rem,Recall,10,Cerebral EEG
+0,0.9200535796115478,Wakefulness,Sensitivity,10,Cerebral EEG
+0,0.7781815370341735,Nrem,Sensitivity,10,Cerebral EEG
+0,0.8645229309435951,Rem,Sensitivity,10,Cerebral EEG
+0,0.8083069246847818,Wakefulness,Specificity,10,Cerebral EEG
+0,0.9264851648714729,Nrem,Specificity,10,Cerebral EEG
+0,0.9921071108636177,Rem,Specificity,10,Cerebral EEG
+0,0.819689495505856,Wakefulness,Precision,10,Cerebellar EEG
+0,0.7743138270326256,Nrem,Precision,10,Cerebellar EEG
+0,0.3466135458167331,Rem,Precision,10,Cerebellar EEG
+0,0.954739328139871,Wakefulness,Recall,10,Cerebellar EEG
+0,0.5780114427091387,Nrem,Recall,10,Cerebellar EEG
+0,0.09172377438060095,Rem,Recall,10,Cerebellar EEG
+0,0.954739328139871,Wakefulness,Sensitivity,10,Cerebellar EEG
+0,0.5780114427091387,Nrem,Sensitivity,10,Cerebellar EEG
+0,0.09172377438060095,Rem,Sensitivity,10,Cerebellar EEG
+0,0.5982738857797856,Wakefulness,Specificity,10,Cerebellar EEG
+0,0.9280050221370515,Nrem,Specificity,10,Cerebellar EEG
+0,0.9920586882308791,Rem,Specificity,10,Cerebellar EEG
+0,0.8036053130929791,Wakefulness,Precision,10,EMG
+0,0.6896551724137931,Nrem,Precision,10,EMG
+0,0.17879161528976573,Rem,Precision,10,EMG
+0,0.9255525397440869,Wakefulness,Recall,10,EMG
+0,0.5180145353332303,Nrem,Recall,10,EMG
+0,0.0764364786505008,Rem,Recall,10,EMG
+0,0.9255525397440869,Wakefulness,Sensitivity,10,EMG
+0,0.5180145353332303,Nrem,Sensitivity,10,EMG
+0,0.0764364786505008,Rem,Sensitivity,10,EMG
+0,0.5673251972220349,Wakefulness,Specificity,10,EMG
+0,0.9003832683539285,Nrem,Specificity,10,EMG
+0,0.9838752632980655,Rem,Specificity,10,EMG
+0,0.9049389089657546,Wakefulness,Precision,10,Cerebral EEG
+0,0.8280116110304789,Nrem,Precision,10,Cerebral EEG
+0,0.8823866896156053,Rem,Precision,10,Cerebral EEG
+0,0.9273772573363431,Wakefulness,Recall,10,Cerebral EEG
+0,0.794322400990099,Nrem,Recall,10,Cerebral EEG
+0,0.8010416666666667,Rem,Recall,10,Cerebral EEG
+0,0.9273772573363431,Wakefulness,Sensitivity,10,Cerebral EEG
+0,0.794322400990099,Nrem,Sensitivity,10,Cerebral EEG
+0,0.8010416666666667,Rem,Sensitivity,10,Cerebral EEG
+0,0.8139816810344828,Wakefulness,Specificity,10,Cerebral EEG
+0,0.9295388477801269,Nrem,Specificity,10,Cerebral EEG
+0,0.9950339147286822,Rem,Specificity,10,Cerebral EEG
+0,0.9261862277411602,Wakefulness,Precision,10,Cerebellar EEG
+0,0.7154850746268657,Nrem,Precision,10,Cerebellar EEG
+0,0.23130434782608697,Rem,Precision,10,Cerebellar EEG
+0,0.8970795711060948,Wakefulness,Recall,10,Cerebellar EEG
+0,0.7119430693069307,Nrem,Recall,10,Cerebellar EEG
+0,0.3463541666666667,Rem,Recall,10,Cerebellar EEG
+0,0.8970795711060948,Wakefulness,Sensitivity,10,Cerebellar EEG
+0,0.7119430693069307,Nrem,Sensitivity,10,Cerebellar EEG
+0,0.3463541666666667,Rem,Sensitivity,10,Cerebellar EEG
+0,0.8634832974137931,Wakefulness,Specificity,10,Cerebellar EEG
+0,0.8790961945031712,Nrem,Specificity,10,Cerebellar EEG
+0,0.9464631782945736,Rem,Specificity,10,Cerebellar EEG
+0,0.8150588536335721,Wakefulness,Precision,10,EMG
+0,0.6658091072806792,Nrem,Precision,10,EMG
+0,0.2581818181818182,Rem,Precision,10,EMG
+0,0.8987725733634312,Wakefulness,Recall,10,EMG
+0,0.6005569306930693,Nrem,Recall,10,EMG
+0,0.03697916666666667,Rem,Recall,10,EMG
+0,0.8987725733634312,Wakefulness,Sensitivity,10,EMG
+0,0.6005569306930693,Nrem,Sensitivity,10,EMG
+0,0.03697916666666667,Rem,Sensitivity,10,EMG
+0,0.6105872844827587,Wakefulness,Specificity,10,EMG
+0,0.8712671775898521,Nrem,Specificity,10,EMG
+0,0.9950581395348838,Rem,Specificity,10,EMG
+0,0.8690507236927891,Wakefulness,Precision,10,Cerebral EEG
+0,0.8520560747663551,Nrem,Precision,10,Cerebral EEG
+0,0.8651315789473685,Rem,Precision,10,Cerebral EEG
+0,0.9443499822883458,Wakefulness,Recall,10,Cerebral EEG
+0,0.6970716415628107,Nrem,Recall,10,Cerebral EEG
+0,0.8344791115811739,Rem,Recall,10,Cerebral EEG
+0,0.9443499822883458,Wakefulness,Sensitivity,10,Cerebral EEG
+0,0.6970716415628107,Nrem,Sensitivity,10,Cerebral EEG
+0,0.8344791115811739,Rem,Sensitivity,10,Cerebral EEG
+0,0.7316633266533066,Wakefulness,Specificity,10,Cerebral EEG
+0,0.9474453039407722,Nrem,Specificity,10,Cerebral EEG
+0,0.9940448812607422,Rem,Specificity,10,Cerebral EEG
+0,0.8670002014639715,Wakefulness,Precision,10,Cerebellar EEG
+0,0.7165583304823812,Nrem,Precision,10,Cerebellar EEG
+0,0.2398609501738123,Rem,Precision,10,Cerebellar EEG
+0,0.9146652497343252,Wakefulness,Recall,10,Cerebellar EEG
+0,0.6405688508295742,Nrem,Recall,10,Cerebellar EEG
+0,0.21893178212585934,Rem,Recall,10,Cerebellar EEG
+0,0.9146652497343252,Wakefulness,Sensitivity,10,Cerebellar EEG
+0,0.6405688508295742,Nrem,Sensitivity,10,Cerebellar EEG
+0,0.21893178212585934,Rem,Sensitivity,10,Cerebellar EEG
+0,0.7354041416165664,Wakefulness,Specificity,10,Cerebellar EEG
+0,0.8899770923940108,Nrem,Specificity,10,Cerebellar EEG
+0,0.9682393667239585,Rem,Specificity,10,Cerebellar EEG
+0,0.8063671911081006,Wakefulness,Precision,10,EMG
+0,0.711197496918555,Nrem,Precision,10,EMG
+0,0.27586206896551724,Rem,Precision,10,EMG
+0,0.9277364505844846,Wakefulness,Recall,10,EMG
+0,0.5735147947090756,Nrem,Recall,10,EMG
+0,0.02538339502908514,Rem,Recall,10,EMG
+0,0.9277364505844846,Wakefulness,Sensitivity,10,EMG
+0,0.5735147947090756,Nrem,Sensitivity,10,EMG
+0,0.02538339502908514,Rem,Sensitivity,10,EMG
+0,0.5798931195724782,Wakefulness,Specificity,10,EMG
+0,0.898874539357923,Nrem,Specificity,10,EMG
+0,0.9969498172311119,Rem,Specificity,10,EMG
+0,0.8815978606050476,Wakefulness,Precision,10,Cerebral EEG
+0,0.8380256906563435,Nrem,Precision,10,Cerebral EEG
+0,0.8353309015112037,Rem,Precision,10,Cerebral EEG
+0,0.9326991087848352,Wakefulness,Recall,10,Cerebral EEG
+0,0.7267663665496719,Nrem,Recall,10,Cerebral EEG
+0,0.8817381738173817,Rem,Recall,10,Cerebral EEG
+0,0.9326991087848352,Wakefulness,Sensitivity,10,Cerebral EEG
+0,0.7267663665496719,Nrem,Sensitivity,10,Cerebral EEG
+0,0.8817381738173817,Rem,Sensitivity,10,Cerebral EEG
+0,0.7626641651031895,Wakefulness,Specificity,10,Cerebral EEG
+0,0.9388250149531469,Nrem,Specificity,10,Cerebral EEG
+0,0.9923638296844038,Rem,Specificity,10,Cerebral EEG
+0,0.8742751801575331,Wakefulness,Precision,10,Cerebellar EEG
+0,0.7491319444444444,Nrem,Precision,10,Cerebellar EEG
+0,0.42424242424242425,Rem,Precision,10,Cerebellar EEG
+0,0.9224784269345028,Wakefulness,Recall,10,Cerebellar EEG
+0,0.7243247367617885,Nrem,Recall,10,Cerebellar EEG
+0,0.1617161716171617,Rem,Recall,10,Cerebellar EEG
+0,0.9224784269345028,Wakefulness,Sensitivity,10,Cerebellar EEG
+0,0.7243247367617885,Nrem,Sensitivity,10,Cerebellar EEG
+0,0.1617161716171617,Rem,Sensitivity,10,Cerebellar EEG
+0,0.7486598767086572,Wakefulness,Specificity,10,Cerebellar EEG
+0,0.8943643251146408,Nrem,Specificity,10,Cerebellar EEG
+0,0.990358126721763,Rem,Specificity,10,Cerebellar EEG
+0,0.8388633599135018,Wakefulness,Precision,10,EMG
+0,0.6716628737345994,Nrem,Precision,10,EMG
+0,0.1753774680603949,Rem,Precision,10,EMG
+0,0.8780237657377281,Wakefulness,Recall,10,EMG
+0,0.6530596673279414,Nrem,Recall,10,EMG
+0,0.08305830583058306,Rem,Recall,10,EMG
+0,0.8780237657377281,Wakefulness,Sensitivity,10,EMG
+0,0.6530596673279414,Nrem,Sensitivity,10,EMG
+0,0.08305830583058306,Rem,Sensitivity,10,EMG
+0,0.6804476011793085,Wakefulness,Specificity,10,EMG
+0,0.8609689639130724,Nrem,Specificity,10,EMG
+0,0.9828427818858441,Rem,Specificity,10,EMG
+0,0.9097107510631568,Wakefulness,Precision,10,Cerebral EEG
+0,0.8131702279768052,Nrem,Precision,10,Cerebral EEG
+0,0.8123262279888785,Rem,Precision,10,Cerebral EEG
+0,0.9121150186764395,Wakefulness,Recall,10,Cerebral EEG
+0,0.7957866915422885,Nrem,Recall,10,Cerebral EEG
+0,0.8953013278855976,Rem,Recall,10,Cerebral EEG
+0,0.9121150186764395,Wakefulness,Sensitivity,10,Cerebral EEG
+0,0.7957866915422885,Nrem,Sensitivity,10,Cerebral EEG
+0,0.8953013278855976,Rem,Sensitivity,10,Cerebral EEG
+0,0.8266765618674943,Wakefulness,Specificity,10,Cerebral EEG
+0,0.9224683544303798,Nrem,Specificity,10,Cerebral EEG
+0,0.9901799136802288,Rem,Specificity,10,Cerebral EEG
+0,0.8297600896163301,Wakefulness,Precision,10,Cerebellar EEG
+0,0.7509146642934836,Nrem,Precision,10,Cerebellar EEG
+0,0.33157894736842103,Rem,Precision,10,Cerebellar EEG
+0,0.939671576573402,Wakefulness,Recall,10,Cerebellar EEG
+0,0.5903296019900498,Nrem,Recall,10,Cerebellar EEG
+0,0.16087844739530133,Rem,Recall,10,Cerebellar EEG
+0,0.939671576573402,Wakefulness,Sensitivity,10,Cerebellar EEG
+0,0.5903296019900498,Nrem,Sensitivity,10,Cerebellar EEG
+0,0.16087844739530133,Rem,Sensitivity,10,Cerebellar EEG
+0,0.6308865200377817,Wakefulness,Specificity,10,Cerebellar EEG
+0,0.9169633438818565,Nrem,Specificity,10,Cerebellar EEG
+0,0.9846030745356675,Rem,Specificity,10,Cerebellar EEG
+0,0.8469875152353659,Wakefulness,Precision,10,EMG
+0,0.6824241432894415,Nrem,Precision,10,EMG
+0,0.17045454545454544,Rem,Precision,10,EMG
+0,0.9060539854817112,Wakefulness,Recall,10,EMG
+0,0.6486318407960199,Nrem,Recall,10,EMG
+0,0.05362614913176711,Rem,Recall,10,EMG
+0,0.9060539854817112,Wakefulness,Sensitivity,10,EMG
+0,0.6486318407960199,Nrem,Sensitivity,10,EMG
+0,0.05362614913176711,Rem,Sensitivity,10,EMG
+0,0.6866144919713939,Wakefulness,Specificity,10,EMG
+0,0.8720002637130801,Nrem,Specificity,10,EMG
+0,0.9876097182483876,Rem,Specificity,10,EMG
+0,0.8600427009974189,Wakefulness,Precision,10,Cerebral EEG
+0,0.8401285398674433,Nrem,Precision,10,Cerebral EEG
+0,0.8640515851692638,Rem,Precision,10,Cerebral EEG
+0,0.9442325858027499,Wakefulness,Recall,10,Cerebral EEG
+0,0.6578595580718724,Nrem,Recall,10,Cerebral EEG
+0,0.8463157894736842,Rem,Recall,10,Cerebral EEG
+0,0.9442325858027499,Wakefulness,Sensitivity,10,Cerebral EEG
+0,0.6578595580718724,Nrem,Sensitivity,10,Cerebral EEG
+0,0.8463157894736842,Rem,Sensitivity,10,Cerebral EEG
+0,0.6995279469111308,Wakefulness,Specificity,10,Cerebral EEG
+0,0.9477741692090673,Nrem,Specificity,10,Cerebral EEG
+0,0.9938740920096852,Rem,Specificity,10,Cerebral EEG
+0,0.8965598333669287,Wakefulness,Precision,10,Cerebellar EEG
+0,0.7621515508441303,Nrem,Precision,10,Cerebellar EEG
+0,0.4177396280400572,Rem,Precision,10,Cerebellar EEG
+0,0.9336668649197075,Wakefulness,Recall,10,Cerebellar EEG
+0,0.7632303216167335,Nrem,Recall,10,Cerebellar EEG
+0,0.15368421052631578,Rem,Recall,10,Cerebellar EEG
+0,0.9336668649197075,Wakefulness,Sensitivity,10,Cerebellar EEG
+0,0.7632303216167335,Nrem,Sensitivity,10,Cerebellar EEG
+0,0.15368421052631578,Rem,Sensitivity,10,Cerebellar EEG
+0,0.7893548607785456,Wakefulness,Specificity,10,Cerebellar EEG
+0,0.9006331397828298,Nrem,Specificity,10,Cerebellar EEG
+0,0.9901452784503632,Rem,Specificity,10,Cerebellar EEG
+0,0.806422351233672,Wakefulness,Precision,10,EMG
+0,0.7152820512820512,Nrem,Precision,10,EMG
+0,0.24338624338624337,Rem,Precision,10,EMG
+0,0.9330721057971522,Wakefulness,Recall,10,EMG
+0,0.5483997798222852,Nrem,Recall,10,EMG
+0,0.04842105263157895,Rem,Recall,10,EMG
+0,0.9330721057971522,Wakefulness,Sensitivity,10,EMG
+0,0.5483997798222852,Nrem,Sensitivity,10,EMG
+0,0.04842105263157895,Rem,Sensitivity,10,EMG
+0,0.5620168297188205,Wakefulness,Specificity,10,EMG
+0,0.9089328478168159,Nrem,Specificity,10,EMG
+0,0.9930750605326877,Rem,Specificity,10,EMG
+0,0.9401877649909146,Wakefulness,Precision,10,Cerebral EEG
+0,0.7601483618380384,Nrem,Precision,10,Cerebral EEG
+0,0.802247191011236,Rem,Precision,10,Cerebral EEG
+0,0.8727860556648861,Wakefulness,Recall,10,Cerebral EEG
+0,0.8640693316677077,Nrem,Recall,10,Cerebral EEG
+0,0.922004132231405,Rem,Recall,10,Cerebral EEG
+0,0.8727860556648861,Wakefulness,Sensitivity,10,Cerebral EEG
+0,0.8640693316677077,Nrem,Sensitivity,10,Cerebral EEG
+0,0.922004132231405,Rem,Sensitivity,10,Cerebral EEG
+0,0.8928377645143787,Wakefulness,Specificity,10,Cerebral EEG
+0,0.8851013424585418,Nrem,Specificity,10,Cerebral EEG
+0,0.9893369523070957,Rem,Specificity,10,Cerebral EEG
+0,0.8363955903498962,Wakefulness,Precision,10,Cerebellar EEG
+0,0.7053266150800792,Nrem,Precision,10,Cerebellar EEG
+0,0.30973451327433627,Rem,Precision,10,Cerebellar EEG
+0,0.919841158279449,Wakefulness,Recall,10,Cerebellar EEG
+0,0.6120393504059962,Nrem,Recall,10,Cerebellar EEG
+0,0.1265495867768595,Rem,Recall,10,Cerebellar EEG
+0,0.919841158279449,Wakefulness,Sensitivity,10,Cerebellar EEG
+0,0.6120393504059962,Nrem,Sensitivity,10,Cerebellar EEG
+0,0.1265495867768595,Rem,Sensitivity,10,Cerebellar EEG
+0,0.6527400976668475,Wakefulness,Specificity,10,Cerebellar EEG
+0,0.8922413793103449,Nrem,Specificity,10,Cerebellar EEG
+0,0.986768127181078,Rem,Specificity,10,Cerebellar EEG
+0,0.8193185765259402,Wakefulness,Precision,10,EMG
+0,0.6990344827586207,Nrem,Precision,10,EMG
+0,0.1722560975609756,Rem,Precision,10,EMG
+0,0.9118287883047512,Wakefulness,Recall,10,EMG
+0,0.5935352904434729,Nrem,Recall,10,EMG
+0,0.05836776859504132,Rem,Recall,10,EMG
+0,0.9118287883047512,Wakefulness,Sensitivity,10,EMG
+0,0.5935352904434729,Nrem,Sensitivity,10,EMG
+0,0.05836776859504132,Rem,Sensitivity,10,EMG
+0,0.6119099294628323,Wakefulness,Specificity,10,EMG
+0,0.8923071861016056,Nrem,Specificity,10,EMG
+0,0.9868408297789841,Rem,Specificity,10,EMG
+0,0.9049934806357262,Wakefulness,Precision,10,Cerebral EEG
+0,0.7849249295023245,Nrem,Precision,10,Cerebral EEG
+0,0.8719153936545241,Rem,Precision,10,Cerebral EEG
+0,0.9019105148556578,Wakefulness,Recall,10,Cerebral EEG
+0,0.8033541341653666,Nrem,Recall,10,Cerebral EEG
+0,0.7785939139559287,Rem,Recall,10,Cerebral EEG
+0,0.9019105148556578,Wakefulness,Sensitivity,10,Cerebral EEG
+0,0.8033541341653666,Nrem,Sensitivity,10,Cerebral EEG
+0,0.7785939139559287,Rem,Sensitivity,10,Cerebral EEG
+0,0.8169224500882792,Wakefulness,Specificity,10,Cerebral EEG
+0,0.9071099407504938,Nrem,Specificity,10,Cerebral EEG
+0,0.9947207826802925,Rem,Specificity,10,Cerebral EEG
+0,0.9357843698698125,Wakefulness,Precision,10,Cerebellar EEG
+0,0.6702776740131988,Nrem,Precision,10,Cerebellar EEG
+0,0.31322751322751324,Rem,Precision,10,Cerebellar EEG
+0,0.8608203975556649,Wakefulness,Recall,10,Cerebellar EEG
+0,0.8397815912636506,Nrem,Recall,10,Cerebellar EEG
+0,0.155299055613851,Rem,Recall,10,Cerebellar EEG
+0,0.8608203975556649,Wakefulness,Sensitivity,10,Cerebellar EEG
+0,0.8397815912636506,Nrem,Sensitivity,10,Cerebellar EEG
+0,0.155299055613851,Rem,Sensitivity,10,Cerebellar EEG
+0,0.8857802526144235,Wakefulness,Specificity,10,Cerebellar EEG
+0,0.8256747860434497,Nrem,Specificity,10,Cerebellar EEG
+0,0.984283431006926,Rem,Specificity,10,Cerebellar EEG
+0,0.85103175666622,Wakefulness,Precision,10,EMG
+0,0.6787653172017993,Nrem,Precision,10,EMG
+0,0.24008810572687225,Rem,Precision,10,EMG
+0,0.8922174615438646,Wakefulness,Recall,10,EMG
+0,0.6826833073322933,Nrem,Recall,10,EMG
+0,0.057187827911857295,Rem,Recall,10,EMG
+0,0.8922174615438646,Wakefulness,Sensitivity,10,EMG
+0,0.6826833073322933,Nrem,Sensitivity,10,EMG
+0,0.057187827911857295,Rem,Sensitivity,10,EMG
+0,0.6980171125899769,Wakefulness,Specificity,10,EMG
+0,0.8636603028308097,Nrem,Specificity,10,EMG
+0,0.9916452753426648,Rem,Specificity,10,EMG
+0,0.9053355681262658,Wakefulness,Precision,10,Cerebral EEG
+0,0.8260939381774388,Nrem,Precision,10,Cerebral EEG
+0,0.7954437588989084,Rem,Precision,10,Cerebral EEG
+0,0.9183225303722594,Wakefulness,Recall,10,Cerebral EEG
+0,0.7880064333307805,Nrem,Recall,10,Cerebral EEG
+0,0.8774869109947644,Rem,Recall,10,Cerebral EEG
+0,0.9183225303722594,Wakefulness,Sensitivity,10,Cerebral EEG
+0,0.7880064333307805,Nrem,Sensitivity,10,Cerebral EEG
+0,0.8774869109947644,Rem,Sensitivity,10,Cerebral EEG
+0,0.8188681766553083,Wakefulness,Specificity,10,Cerebral EEG
+0,0.9281425206515609,Nrem,Specificity,10,Cerebral EEG
+0,0.9895616372002907,Rem,Specificity,10,Cerebral EEG
+0,0.8915190855852677,Wakefulness,Precision,10,Cerebellar EEG
+0,0.7100898662964857,Nrem,Precision,10,Cerebellar EEG
+0,0.27249357326478146,Rem,Precision,10,Cerebellar EEG
+0,0.895087309177204,Wakefulness,Recall,10,Cerebellar EEG
+0,0.7443516887493299,Nrem,Recall,10,Cerebellar EEG
+0,0.16649214659685863,Rem,Recall,10,Cerebellar EEG
+0,0.895087309177204,Wakefulness,Sensitivity,10,Cerebellar EEG
+0,0.7443516887493299,Nrem,Sensitivity,10,Cerebellar EEG
+0,0.16649214659685863,Rem,Sensitivity,10,Cerebellar EEG
+0,0.7945480056123472,Wakefulness,Specificity,10,Cerebellar EEG
+0,0.8683608134558604,Nrem,Specificity,10,Cerebellar EEG
+0,0.9794381206103173,Rem,Specificity,10,Cerebellar EEG
+0,0.8852000302503215,Wakefulness,Precision,10,EMG
+0,0.606547924141466,Nrem,Precision,10,EMG
+0,0.18848167539267016,Rem,Precision,10,EMG
+0,0.8291715368540361,Wakefulness,Recall,10,EMG
+0,0.725051696408057,Nrem,Recall,10,EMG
+0,0.1130890052356021,Rem,Recall,10,EMG
+0,0.8291715368540361,Wakefulness,Sensitivity,10,EMG
+0,0.725051696408057,Nrem,Sensitivity,10,EMG
+0,0.1130890052356021,Rem,Sensitivity,10,EMG
+0,0.797153738224093,Wakefulness,Specificity,10,EMG
+0,0.7962711077198686,Nrem,Specificity,10,EMG
+0,0.9774763865342698,Rem,Specificity,10,EMG
+0,0.8949342036734835,Wakefulness,Precision,10,Cerebral EEG
+0,0.8224588730827307,Nrem,Precision,10,Cerebral EEG
+0,0.8799559471365639,Rem,Precision,10,Cerebral EEG
+0,0.9222154638806397,Wakefulness,Recall,10,Cerebral EEG
+0,0.7757871064467766,Nrem,Recall,10,Cerebral EEG
+0,0.836211407639979,Rem,Recall,10,Cerebral EEG
+0,0.9222154638806397,Wakefulness,Sensitivity,10,Cerebral EEG
+0,0.7757871064467766,Nrem,Sensitivity,10,Cerebral EEG
+0,0.836211407639979,Rem,Sensitivity,10,Cerebral EEG
+0,0.8015867811946757,Wakefulness,Specificity,10,Cerebral EEG
+0,0.9251841929002009,Nrem,Specificity,10,Cerebral EEG
+0,0.9947201433795926,Rem,Specificity,10,Cerebral EEG
+0,0.8465392221489783,Wakefulness,Precision,10,Cerebellar EEG
+0,0.7011600928074246,Nrem,Precision,10,Cerebellar EEG
+0,0.15251798561151078,Rem,Precision,10,Cerebellar EEG
+0,0.9189595334359011,Wakefulness,Recall,10,Cerebellar EEG
+0,0.5663418290854573,Nrem,Recall,10,Cerebellar EEG
+0,0.1664050235478807,Rem,Recall,10,Cerebellar EEG
+0,0.9189595334359011,Wakefulness,Sensitivity,10,Cerebellar EEG
+0,0.5663418290854573,Nrem,Sensitivity,10,Cerebellar EEG
+0,0.1664050235478807,Rem,Sensitivity,10,Cerebellar EEG
+0,0.6947085437020524,Wakefulness,Specificity,10,Cerebellar EEG
+0,0.8921634293369055,Nrem,Specificity,10,Cerebellar EEG
+0,0.9572040979437623,Rem,Specificity,10,Cerebellar EEG
+0,0.8582538653828349,Wakefulness,Precision,10,EMG
+0,0.4928531650269167,Nrem,Precision,10,EMG
+0,0.22,Rem,Precision,10,EMG
+0,0.6633511037962002,Wakefulness,Recall,10,EMG
+0,0.7961019490254873,Nrem,Recall,10,EMG
+0,0.0057561486132914706,Rem,Recall,10,EMG
+0,0.6633511037962002,Wakefulness,Sensitivity,10,EMG
+0,0.7961019490254873,Nrem,Sensitivity,10,EMG
+0,0.0057561486132914706,Rem,Sensitivity,10,EMG
+0,0.7992262802439184,Wakefulness,Specificity,10,EMG
+0,0.634025452109846,Nrem,Specificity,10,EMG
+0,0.9990554384945143,Rem,Specificity,10,EMG
+0,0.9100489408066302,Wakefulness,Precision,10,Cerebral EEG
+0,0.7877311819773194,Nrem,Precision,10,Cerebral EEG
+0,0.8017408123791102,Rem,Precision,10,Cerebral EEG
+0,0.8978922881714366,Wakefulness,Recall,10,Cerebral EEG
+0,0.7997836334131829,Nrem,Recall,10,Cerebral EEG
+0,0.8786433492315845,Rem,Recall,10,Cerebral EEG
+0,0.8978922881714366,Wakefulness,Sensitivity,10,Cerebral EEG
+0,0.7997836334131829,Nrem,Sensitivity,10,Cerebral EEG
+0,0.8786433492315845,Rem,Sensitivity,10,Cerebral EEG
+0,0.830186134340437,Wakefulness,Specificity,10,Cerebral EEG
+0,0.907829075646915,Nrem,Specificity,10,Cerebral EEG
+0,0.9900757630769975,Rem,Specificity,10,Cerebral EEG
+0,0.852953676158096,Wakefulness,Precision,10,Cerebellar EEG
+0,0.7164893178256208,Nrem,Precision,10,Cerebellar EEG
+0,0.45491803278688525,Rem,Precision,10,Cerebellar EEG
+0,0.9196038347666714,Wakefulness,Recall,10,Cerebellar EEG
+0,0.6712000618190248,Nrem,Recall,10,Cerebellar EEG
+0,0.11764705882352941,Rem,Recall,10,Cerebellar EEG
+0,0.9196038347666714,Wakefulness,Sensitivity,10,Cerebellar EEG
+0,0.6712000618190248,Nrem,Sensitivity,10,Cerebellar EEG
+0,0.11764705882352941,Rem,Sensitivity,10,Cerebellar EEG
+0,0.6966549770704074,Wakefulness,Specificity,10,Cerebellar EEG
+0,0.886413959483129,Nrem,Specificity,10,Cerebellar EEG
+0,0.9935613487280033,Rem,Specificity,10,Cerebellar EEG
+0,0.8258096323914584,Wakefulness,Precision,10,EMG
+0,0.7477308602999211,Nrem,Precision,10,EMG
+0,0.2078559738134206,Rem,Precision,10,EMG
+0,0.9445932609615113,Wakefulness,Recall,10,EMG
+0,0.585657986245267,Nrem,Recall,10,EMG
+0,0.06730259671436142,Rem,Recall,10,EMG
+0,0.9445932609615113,Wakefulness,Sensitivity,10,EMG
+0,0.585657986245267,Nrem,Sensitivity,10,EMG
+0,0.06730259671436142,Rem,Sensitivity,10,EMG
+0,0.6187618019962233,Wakefulness,Specificity,10,EMG
+0,0.9154962160018507,Nrem,Specificity,10,EMG
+0,0.9882845593396752,Rem,Specificity,10,EMG
+0,0.8843284876661,Wakefulness,Precision,10,Cerebral EEG
+0,0.7722129915341404,Nrem,Precision,10,Cerebral EEG
+0,0.8849252013808976,Rem,Precision,10,Cerebral EEG
+0,0.9004168432951816,Wakefulness,Recall,10,Cerebral EEG
+0,0.7506537455776034,Nrem,Recall,10,Cerebral EEG
+0,0.8137566137566138,Rem,Recall,10,Cerebral EEG
+0,0.9004168432951816,Wakefulness,Sensitivity,10,Cerebral EEG
+0,0.7506537455776034,Nrem,Sensitivity,10,Cerebral EEG
+0,0.8137566137566138,Rem,Sensitivity,10,Cerebral EEG
+0,0.7761214074670965,Wakefulness,Specificity,10,Cerebral EEG
+0,0.9046625604344659,Nrem,Specificity,10,Cerebral EEG
+0,0.9951585572500605,Rem,Specificity,10,Cerebral EEG
+0,0.9448941124293159,Wakefulness,Precision,10,Cerebellar EEG
+0,0.7395060888495816,Nrem,Precision,10,Cerebellar EEG
+0,0.32617728531855955,Rem,Precision,10,Cerebellar EEG
+0,0.9031369224247563,Wakefulness,Recall,10,Cerebellar EEG
+0,0.836025226888171,Nrem,Recall,10,Cerebellar EEG
+0,0.2492063492063492,Rem,Recall,10,Cerebellar EEG
+0,0.9031369224247563,Wakefulness,Sensitivity,10,Cerebellar EEG
+0,0.836025226888171,Nrem,Sensitivity,10,Cerebellar EEG
+0,0.2492063492063492,Rem,Sensitivity,10,Cerebellar EEG
+0,0.8998791297340855,Wakefulness,Specificity,10,Cerebellar EEG
+0,0.8732035234121465,Nrem,Specificity,10,Cerebellar EEG
+0,0.9764463810215445,Rem,Specificity,10,Cerebellar EEG
+0,0.968449719952726,Wakefulness,Precision,10,EMG
+0,0.5215376694697099,Nrem,Precision,10,EMG
+0,0.21577726218097448,Rem,Precision,10,EMG
+0,0.6657835240921295,Wakefulness,Recall,10,EMG
+0,0.9349330872173511,Nrem,Recall,10,EMG
+0,0.049206349206349205,Rem,Recall,10,EMG
+0,0.6657835240921295,Wakefulness,Sensitivity,10,EMG
+0,0.9349330872173511,Nrem,Sensitivity,10,EMG
+0,0.049206349206349205,Rem,Sensitivity,10,EMG
+0,0.9587698092935805,Wakefulness,Specificity,10,EMG
+0,0.6307040201337837,Nrem,Specificity,10,EMG
+0,0.9918179617526023,Rem,Specificity,10,EMG
+0,0.8904937512804754,Wakefulness,Precision,10,Cerebral EEG
+0,0.804742813273053,Nrem,Precision,10,Cerebral EEG
+0,0.7736193518941122,Rem,Precision,10,Cerebral EEG
+0,0.9138021654577946,Wakefulness,Recall,10,Cerebral EEG
+0,0.7374921826141339,Nrem,Recall,10,Cerebral EEG
+0,0.9069020866773676,Rem,Recall,10,Cerebral EEG
+0,0.9138021654577946,Wakefulness,Sensitivity,10,Cerebral EEG
+0,0.7374921826141339,Nrem,Sensitivity,10,Cerebral EEG
+0,0.9069020866773676,Rem,Sensitivity,10,Cerebral EEG
+0,0.781256394516063,Wakefulness,Specificity,10,Cerebral EEG
+0,0.9247237569060773,Nrem,Specificity,10,Cerebral EEG
+0,0.9879993225424016,Rem,Specificity,10,Cerebral EEG
+0,0.8430704994379316,Wakefulness,Precision,10,Cerebellar EEG
+0,0.7166151251054259,Nrem,Precision,10,Cerebellar EEG
+0,0.26901004304160686,Rem,Precision,10,Cerebellar EEG
+0,0.919758926381443,Wakefulness,Recall,10,Cerebellar EEG
+0,0.5977954971857411,Nrem,Recall,10,Cerebellar EEG
+0,0.20064205457463885,Rem,Recall,10,Cerebellar EEG
+0,0.919758926381443,Wakefulness,Sensitivity,10,Cerebellar EEG
+0,0.5977954971857411,Nrem,Sensitivity,10,Cerebellar EEG
+0,0.20064205457463885,Rem,Sensitivity,10,Cerebellar EEG
+0,0.6667348748380056,Wakefulness,Specificity,10,Cerebellar EEG
+0,0.9005524861878453,Nrem,Specificity,10,Cerebellar EEG
+0,0.9753453824006194,Rem,Specificity,10,Cerebellar EEG
+0,0.8175582560761714,Wakefulness,Precision,10,EMG
+0,0.6823294629898403,Nrem,Precision,10,EMG
+0,0.12903225806451613,Rem,Precision,10,EMG
+0,0.9146431199411332,Wakefulness,Recall,10,EMG
+0,0.5880237648530331,Nrem,Recall,10,EMG
+0,0.017121455323702513,Rem,Recall,10,EMG
+0,0.9146431199411332,Wakefulness,Sensitivity,10,EMG
+0,0.5880237648530331,Nrem,Sensitivity,10,EMG
+0,0.017121455323702513,Rem,Sensitivity,10,EMG
+0,0.6026874019507537,Wakefulness,Specificity,10,EMG
+0,0.884832938700342,Nrem,Specificity,10,EMG
+0,0.9947738985265298,Rem,Specificity,10,EMG
+0,0.8714204753808714,Wakefulness,Precision,10,Cerebral EEG
+0,0.8106745479833102,Nrem,Precision,10,Cerebral EEG
+0,0.8934667451442024,Rem,Precision,10,Cerebral EEG
+0,0.9265232339701556,Wakefulness,Recall,10,Cerebral EEG
+0,0.7167230249000922,Nrem,Recall,10,Cerebral EEG
+0,0.7686075949367088,Rem,Recall,10,Cerebral EEG
+0,0.9265232339701556,Wakefulness,Sensitivity,10,Cerebral EEG
+0,0.7167230249000922,Nrem,Sensitivity,10,Cerebral EEG
+0,0.7686075949367088,Rem,Sensitivity,10,Cerebral EEG
+0,0.7426436244745446,Wakefulness,Specificity,10,Cerebral EEG
+0,0.9278521266728501,Nrem,Specificity,10,Cerebral EEG
+0,0.9956094602789569,Rem,Specificity,10,Cerebral EEG
+0,0.8452453544722232,Wakefulness,Precision,10,Cerebellar EEG
+0,0.7405395779538777,Nrem,Precision,10,Cerebellar EEG
+0,0.4,Rem,Precision,10,Cerebellar EEG
+0,0.9335058306454471,Wakefulness,Recall,10,Cerebellar EEG
+0,0.6391792191822933,Nrem,Recall,10,Cerebellar EEG
+0,0.1640506329113924,Rem,Recall,10,Cerebellar EEG
+0,0.9335058306454471,Wakefulness,Sensitivity,10,Cerebellar EEG
+0,0.6391792191822933,Nrem,Sensitivity,10,Cerebellar EEG
+0,0.1640506329113924,Rem,Sensitivity,10,Cerebellar EEG
+0,0.6782544872222593,Wakefulness,Specificity,10,Cerebellar EEG
+0,0.9034715781105075,Nrem,Specificity,10,Cerebellar EEG
+0,0.9882110369921164,Rem,Specificity,10,Cerebellar EEG
+0,0.8104045563971581,Wakefulness,Precision,10,EMG
+0,0.808924994435789,Nrem,Precision,10,EMG
+0,0.3355263157894737,Rem,Precision,10,EMG
+0,0.9784142062169922,Wakefulness,Recall,10,EMG
+0,0.558638180141408,Nrem,Recall,10,EMG
+0,0.025822784810126582,Rem,Recall,10,EMG
+0,0.9784142062169922,Wakefulness,Sensitivity,10,EMG
+0,0.558638180141408,Nrem,Sensitivity,10,EMG
+0,0.025822784810126582,Rem,Sensitivity,10,EMG
+0,0.569093214118903,Wakefulness,Specificity,10,EMG
+0,0.9431230952696436,Nrem,Specificity,10,EMG
+0,0.9975500303214069,Rem,Specificity,10,EMG
+0,0.9109526125249905,Wakefulness,Precision,15,Cerebral EEG
+0,0.8100124027511557,Nrem,Precision,15,Cerebral EEG
+0,0.7801966292134831,Rem,Precision,15,Cerebral EEG
+0,0.9029511006373521,Wakefulness,Recall,15,Cerebral EEG
+0,0.8095560063105702,Nrem,Recall,15,Cerebral EEG
+0,0.8852589641434263,Rem,Recall,15,Cerebral EEG
+0,0.9029511006373521,Wakefulness,Sensitivity,15,Cerebral EEG
+0,0.8095560063105702,Nrem,Sensitivity,15,Cerebral EEG
+0,0.8852589641434263,Rem,Sensitivity,15,Cerebral EEG
+0,0.83729884490078,Wakefulness,Specificity,15,Cerebral EEG
+0,0.9154371173341364,Nrem,Specificity,15,Cerebral EEG
+0,0.9886367761844255,Rem,Specificity,15,Cerebral EEG
+0,0.822997542997543,Wakefulness,Precision,15,Cerebellar EEG
+0,0.6878055594356753,Nrem,Precision,15,Cerebellar EEG
+0,0.27188226181254843,Rem,Precision,15,Cerebellar EEG
+0,0.8970060521664613,Wakefulness,Recall,15,Cerebellar EEG
+0,0.5548794230335813,Nrem,Recall,15,Cerebellar EEG
+0,0.2796812749003984,Rem,Recall,15,Cerebellar EEG
+0,0.8970060521664613,Wakefulness,Sensitivity,15,Cerebellar EEG
+0,0.5548794230335813,Nrem,Sensitivity,15,Cerebellar EEG
+0,0.2796812749003984,Rem,Sensitivity,15,Cerebellar EEG
+0,0.6443874025076513,Wakefulness,Specificity,15,Cerebellar EEG
+0,0.8878349894610057,Nrem,Specificity,15,Cerebellar EEG
+0,0.9658740243238337,Rem,Specificity,15,Cerebellar EEG
+0,0.8539898132427843,Wakefulness,Precision,15,EMG
+0,0.6136500905979464,Nrem,Precision,15,EMG
+0,0.2026359143327842,Rem,Precision,15,EMG
+0,0.8351454126720582,Wakefulness,Recall,15,EMG
+0,0.6869506423258959,Nrem,Recall,15,EMG
+0,0.09800796812749003,Rem,Recall,15,EMG
+0,0.8351454126720582,Wakefulness,Sensitivity,15,EMG
+0,0.6869506423258959,Nrem,Sensitivity,15,EMG
+0,0.09800796812749003,Rem,Sensitivity,15,EMG
+0,0.7367953401125481,Wakefulness,Specificity,15,EMG
+0,0.8073873331325906,Nrem,Specificity,15,EMG
+0,0.9824287529497187,Rem,Specificity,15,EMG
+0,0.8941205779770802,Wakefulness,Precision,15,Cerebral EEG
+0,0.8535433070866142,Nrem,Precision,15,Cerebral EEG
+0,0.9342342342342342,Rem,Precision,15,Cerebral EEG
+0,0.94706565336711,Wakefulness,Recall,15,Cerebral EEG
+0,0.7628430682617875,Nrem,Recall,15,Cerebral EEG
+0,0.782051282051282,Rem,Recall,15,Cerebral EEG
+0,0.94706565336711,Wakefulness,Sensitivity,15,Cerebral EEG
+0,0.7628430682617875,Nrem,Sensitivity,15,Cerebral EEG
+0,0.782051282051282,Rem,Sensitivity,15,Cerebral EEG
+0,0.784307754770605,Wakefulness,Specificity,15,Cerebral EEG
+0,0.944954128440367,Nrem,Specificity,15,Cerebral EEG
+0,0.9973429424182864,Rem,Specificity,15,Cerebral EEG
+0,0.9385875675965091,Wakefulness,Precision,15,Cerebellar EEG
+0,0.754247124617495,Nrem,Precision,15,Cerebellar EEG
+0,0.38854489164086686,Rem,Precision,15,Cerebellar EEG
+0,0.9251636056575891,Wakefulness,Recall,15,Cerebellar EEG
+0,0.8383767300023458,Nrem,Recall,15,Cerebellar EEG
+0,0.18929110105580693,Rem,Recall,15,Cerebellar EEG
+0,0.9251636056575891,Wakefulness,Sensitivity,15,Cerebellar EEG
+0,0.8383767300023458,Nrem,Sensitivity,15,Cerebellar EEG
+0,0.18929110105580693,Rem,Sensitivity,15,Cerebellar EEG
+0,0.8835769386926512,Wakefulness,Specificity,15,Cerebellar EEG
+0,0.8851238038867515,Nrem,Specificity,15,Cerebellar EEG
+0,0.9856227706194948,Rem,Specificity,15,Cerebellar EEG
+0,0.8552128226236018,Wakefulness,Precision,15,EMG
+0,0.7402970173468114,Nrem,Precision,15,EMG
+0,0.375,Rem,Precision,15,EMG
+0,0.932077264091197,Wakefulness,Recall,15,EMG
+0,0.6957541637344593,Nrem,Recall,15,EMG
+0,0.038461538461538464,Rem,Recall,15,EMG
+0,0.932077264091197,Wakefulness,Sensitivity,15,EMG
+0,0.6957541637344593,Nrem,Sensitivity,15,EMG
+0,0.038461538461538464,Rem,Sensitivity,15,EMG
+0,0.6965083231831101,Wakefulness,Specificity,15,EMG
+0,0.8973562197888921,Nrem,Specificity,15,EMG
+0,0.9969061658295115,Rem,Specificity,15,EMG
+0,0.9199219779640466,Wakefulness,Precision,15,Cerebral EEG
+0,0.8405574583677808,Nrem,Precision,15,Cerebral EEG
+0,0.8240469208211144,Rem,Precision,15,Cerebral EEG
+0,0.9268111323560654,Wakefulness,Recall,15,Cerebral EEG
+0,0.8161697247706422,Nrem,Recall,15,Cerebral EEG
+0,0.8977635782747604,Rem,Recall,15,Cerebral EEG
+0,0.9268111323560654,Wakefulness,Sensitivity,15,Cerebral EEG
+0,0.8161697247706422,Nrem,Sensitivity,15,Cerebral EEG
+0,0.8977635782747604,Rem,Sensitivity,15,Cerebral EEG
+0,0.8476734857601284,Wakefulness,Specificity,15,Cerebral EEG
+0,0.9327689243027888,Nrem,Specificity,15,Cerebral EEG
+0,0.9912879337882968,Rem,Specificity,15,Cerebral EEG
+0,0.8928143400552342,Wakefulness,Precision,15,Cerebellar EEG
+0,0.7264376043903603,Nrem,Precision,15,Cerebellar EEG
+0,0.25835370823145887,Rem,Precision,15,Cerebellar EEG
+0,0.9100276184406203,Wakefulness,Recall,15,Cerebellar EEG
+0,0.6982798165137615,Nrem,Recall,15,Cerebellar EEG
+0,0.2531948881789137,Rem,Recall,15,Cerebellar EEG
+0,0.9100276184406203,Wakefulness,Sensitivity,15,Cerebellar EEG
+0,0.6982798165137615,Nrem,Sensitivity,15,Cerebellar EEG
+0,0.2531948881789137,Rem,Sensitivity,15,Cerebellar EEG
+0,0.7937224227837947,Wakefulness,Specificity,15,Cerebellar EEG
+0,0.8858067729083665,Nrem,Specificity,15,Cerebellar EEG
+0,0.966966748947292,Rem,Specificity,15,Cerebellar EEG
+0,0.863946580252369,Wakefulness,Precision,15,EMG
+0,0.7465686274509804,Nrem,Precision,15,EMG
+0,0.20512820512820512,Rem,Precision,15,EMG
+0,0.9345655406840875,Wakefulness,Recall,15,EMG
+0,0.6986238532110092,Nrem,Recall,15,EMG
+0,0.04472843450479233,Rem,Recall,15,EMG
+0,0.9345655406840875,Wakefulness,Sensitivity,15,EMG
+0,0.6986238532110092,Nrem,Sensitivity,15,EMG
+0,0.04472843450479233,Rem,Sensitivity,15,EMG
+0,0.7221219414360208,Wakefulness,Specificity,15,EMG
+0,0.8970119521912351,Nrem,Specificity,15,EMG
+0,0.992122840133585,Rem,Specificity,15,EMG
+0,0.9275330637228112,Wakefulness,Precision,15,Cerebral EEG
+0,0.7754264737637659,Nrem,Precision,15,Cerebral EEG
+0,0.8540322580645161,Rem,Precision,15,Cerebral EEG
+0,0.8911525334733525,Wakefulness,Recall,15,Cerebral EEG
+0,0.8451400329489291,Nrem,Recall,15,Cerebral EEG
+0,0.8424821002386634,Rem,Recall,15,Cerebral EEG
+0,0.8911525334733525,Wakefulness,Sensitivity,15,Cerebral EEG
+0,0.8451400329489291,Nrem,Sensitivity,15,Cerebral EEG
+0,0.8424821002386634,Rem,Sensitivity,15,Cerebral EEG
+0,0.8640697078421322,Wakefulness,Specificity,15,Cerebral EEG
+0,0.8975470397005221,Nrem,Specificity,15,Cerebral EEG
+0,0.9934284573212795,Rem,Specificity,15,Cerebral EEG
+0,0.8837595310960112,Wakefulness,Precision,15,Cerebellar EEG
+0,0.6949941792782305,Nrem,Precision,15,Cerebellar EEG
+0,0.3447905477980666,Rem,Precision,15,Cerebellar EEG
+0,0.8946180099763718,Wakefulness,Recall,15,Cerebellar EEG
+0,0.7025182395857849,Nrem,Recall,15,Cerebellar EEG
+0,0.2553699284009546,Rem,Recall,15,Cerebellar EEG
+0,0.8946180099763718,Wakefulness,Sensitivity,15,Cerebellar EEG
+0,0.7025182395857849,Nrem,Sensitivity,15,Cerebellar EEG
+0,0.2553699284009546,Rem,Sensitivity,15,Cerebellar EEG
+0,0.7702716555612507,Wakefulness,Specificity,15,Cerebellar EEG
+0,0.8709486750073885,Nrem,Specificity,15,Cerebellar EEG
+0,0.9778528119667429,Rem,Specificity,15,Cerebellar EEG
+0,0.9007848661702555,Wakefulness,Precision,15,EMG
+0,0.7654532967032966,Nrem,Precision,15,EMG
+0,0.2712765957446808,Rem,Precision,15,EMG
+0,0.9400892622735626,Wakefulness,Recall,15,EMG
+0,0.7868910331842787,Nrem,Recall,15,EMG
+0,0.0405727923627685,Rem,Recall,15,EMG
+0,0.9400892622735626,Wakefulness,Sensitivity,15,EMG
+0,0.7868910331842787,Nrem,Sensitivity,15,EMG
+0,0.0405727923627685,Rem,Sensitivity,15,EMG
+0,0.7978472578165043,Wakefulness,Specificity,15,EMG
+0,0.8990739828588317,Nrem,Specificity,15,EMG
+0,0.9950259594089242,Rem,Specificity,15,EMG
+0,0.9433234587222626,Wakefulness,Precision,15,Cerebral EEG
+0,0.7614592094196804,Nrem,Precision,15,Cerebral EEG
+0,0.8303507516105941,Rem,Precision,15,Cerebral EEG
+0,0.8807535747834255,Wakefulness,Recall,15,Cerebral EEG
+0,0.8724403758130571,Nrem,Recall,15,Cerebral EEG
+0,0.8682634730538922,Rem,Recall,15,Cerebral EEG
+0,0.8807535747834255,Wakefulness,Sensitivity,15,Cerebral EEG
+0,0.8724403758130571,Nrem,Sensitivity,15,Cerebral EEG
+0,0.8682634730538922,Rem,Sensitivity,15,Cerebral EEG
+0,0.8947914505084043,Wakefulness,Specificity,15,Cerebral EEG
+0,0.8893062737828081,Nrem,Specificity,15,Cerebral EEG
+0,0.9913705214098456,Rem,Specificity,15,Cerebral EEG
+0,0.9023814308681672,Wakefulness,Precision,15,Cerebellar EEG
+0,0.768762677484787,Nrem,Precision,15,Cerebellar EEG
+0,0.2838107928047968,Rem,Precision,15,Cerebellar EEG
+0,0.9373238701596911,Wakefulness,Recall,15,Cerebellar EEG
+0,0.684774753071549,Nrem,Recall,15,Cerebellar EEG
+0,0.3188622754491018,Rem,Recall,15,Cerebellar EEG
+0,0.9373238701596911,Wakefulness,Sensitivity,15,Cerebellar EEG
+0,0.684774753071549,Nrem,Sensitivity,15,Cerebellar EEG
+0,0.3188622754491018,Rem,Sensitivity,15,Cerebellar EEG
+0,0.7984021581240921,Wakefulness,Specificity,15,Cerebellar EEG
+0,0.9165772270465411,Nrem,Specificity,15,Cerebellar EEG
+0,0.9608578502767259,Rem,Specificity,15,Cerebellar EEG
+0,0.8288340034462952,Wakefulness,Precision,15,EMG
+0,0.6658965472981645,Nrem,Precision,15,EMG
+0,0.1794871794871795,Rem,Precision,15,EMG
+0,0.903663500678426,Wakefulness,Recall,15,EMG
+0,0.6249096603228138,Nrem,Recall,15,EMG
+0,0.015718562874251496,Rem,Recall,15,EMG
+0,0.903663500678426,Wakefulness,Sensitivity,15,EMG
+0,0.6249096603228138,Nrem,Sensitivity,15,EMG
+0,0.015718562874251496,Rem,Sensitivity,15,EMG
+0,0.6289686656982777,Wakefulness,Specificity,15,EMG
+0,0.873012001170846,Nrem,Specificity,15,EMG
+0,0.9965045150014564,Rem,Specificity,15,EMG
+0,0.9163166569195598,Wakefulness,Precision,15,Cerebral EEG
+0,0.8490865766481335,Nrem,Precision,15,Cerebral EEG
+0,0.9040747028862479,Rem,Precision,15,Cerebral EEG
+0,0.932024659312135,Wakefulness,Recall,15,Cerebral EEG
+0,0.8329252003561888,Nrem,Recall,15,Cerebral EEG
+0,0.804380664652568,Rem,Recall,15,Cerebral EEG
+0,0.932024659312135,Wakefulness,Sensitivity,15,Cerebral EEG
+0,0.8329252003561888,Nrem,Sensitivity,15,Cerebral EEG
+0,0.804380664652568,Rem,Sensitivity,15,Cerebral EEG
+0,0.8473030655801319,Wakefulness,Specificity,15,Cerebral EEG
+0,0.9328825191764231,Nrem,Specificity,15,Cerebral EEG
+0,0.9958873198427719,Rem,Specificity,15,Cerebral EEG
+0,0.9208465608465608,Wakefulness,Precision,15,Cerebellar EEG
+0,0.7864303049488235,Nrem,Precision,15,Cerebellar EEG
+0,0.5011820330969267,Rem,Precision,15,Cerebellar EEG
+0,0.9411637464849665,Wakefulness,Recall,15,Cerebellar EEG
+0,0.8295859305431879,Nrem,Recall,15,Cerebellar EEG
+0,0.16012084592145015,Rem,Recall,15,Cerebellar EEG
+0,0.9411637464849665,Wakefulness,Sensitivity,15,Cerebellar EEG
+0,0.8295859305431879,Nrem,Sensitivity,15,Cerebellar EEG
+0,0.16012084592145015,Rem,Sensitivity,15,Cerebellar EEG
+0,0.8548700038804812,Wakefulness,Specificity,15,Cerebellar EEG
+0,0.8978603148970529,Nrem,Specificity,15,Cerebellar EEG
+0,0.992320570679866,Rem,Specificity,15,Cerebellar EEG
+0,0.860085794094174,Wakefulness,Precision,15,EMG
+0,0.7537976162654826,Nrem,Precision,15,EMG
+0,0.32989690721649484,Rem,Precision,15,EMG
+0,0.9324572788232749,Wakefulness,Recall,15,EMG
+0,0.7180543187889582,Nrem,Recall,15,EMG
+0,0.04833836858006042,Rem,Recall,15,EMG
+0,0.9324572788232749,Wakefulness,Sensitivity,15,EMG
+0,0.7180543187889582,Nrem,Sensitivity,15,EMG
+0,0.04833836858006042,Rem,Sensitivity,15,EMG
+0,0.7278812572759022,Wakefulness,Specificity,15,EMG
+0,0.8936717803794914,Nrem,Specificity,15,EMG
+0,0.9952685980492065,Rem,Specificity,15,EMG
+0,0.9290850211317855,Wakefulness,Precision,15,Cerebral EEG
+0,0.8048385354789934,Nrem,Precision,15,Cerebral EEG
+0,0.8797276853252648,Rem,Precision,15,Cerebral EEG
+0,0.9050903646668805,Wakefulness,Recall,15,Cerebral EEG
+0,0.8523390140683976,Nrem,Recall,15,Cerebral EEG
+0,0.8583025830258303,Rem,Recall,15,Cerebral EEG
+0,0.9050903646668805,Wakefulness,Sensitivity,15,Cerebral EEG
+0,0.8523390140683976,Nrem,Sensitivity,15,Cerebral EEG
+0,0.8583025830258303,Rem,Sensitivity,15,Cerebral EEG
+0,0.8720538720538721,Wakefulness,Specificity,15,Cerebral EEG
+0,0.9099067657177046,Nrem,Specificity,15,Cerebral EEG
+0,0.9942065950081982,Rem,Specificity,15,Cerebral EEG
+0,0.942053158291187,Wakefulness,Precision,15,Cerebellar EEG
+0,0.7844990548204159,Nrem,Precision,15,Cerebellar EEG
+0,0.4190751445086705,Rem,Precision,15,Cerebellar EEG
+0,0.9362100310127259,Wakefulness,Recall,15,Cerebellar EEG
+0,0.8543978039574517,Nrem,Recall,15,Cerebellar EEG
+0,0.2140221402214022,Rem,Recall,15,Cerebellar EEG
+0,0.9362100310127259,Wakefulness,Sensitivity,15,Cerebellar EEG
+0,0.8543978039574517,Nrem,Sensitivity,15,Cerebellar EEG
+0,0.2140221402214022,Rem,Sensitivity,15,Cerebellar EEG
+0,0.8933452168746286,Wakefulness,Specificity,15,Cerebellar EEG
+0,0.8976915789998504,Nrem,Specificity,15,Cerebellar EEG
+0,0.9853525232282747,Rem,Specificity,15,Cerebellar EEG
+0,0.8670402989057913,Wakefulness,Precision,15,EMG
+0,0.660051413881748,Nrem,Precision,15,EMG
+0,0.17352941176470588,Rem,Precision,15,EMG
+0,0.868570206395038,Wakefulness,Recall,15,EMG
+0,0.734187349879904,Nrem,Recall,15,EMG
+0,0.043542435424354244,Rem,Recall,15,EMG
+0,0.868570206395038,Wakefulness,Sensitivity,15,EMG
+0,0.734187349879904,Nrem,Sensitivity,15,EMG
+0,0.043542435424354244,Rem,Sensitivity,15,EMG
+0,0.7533174886116063,Wakefulness,Specificity,15,EMG
+0,0.8351697661664257,Nrem,Specificity,15,EMG
+0,0.9897613408635453,Rem,Specificity,15,EMG
+0,0.9346977404471786,Wakefulness,Precision,15,Cerebral EEG
+0,0.7194958945961428,Nrem,Precision,15,Cerebral EEG
+0,0.7746478873239436,Rem,Precision,15,Cerebral EEG
+0,0.8377690594846782,Wakefulness,Recall,15,Cerebral EEG
+0,0.8633291327758048,Nrem,Recall,15,Cerebral EEG
+0,0.9098428453267163,Rem,Recall,15,Cerebral EEG
+0,0.8377690594846782,Wakefulness,Sensitivity,15,Cerebral EEG
+0,0.8633291327758048,Nrem,Sensitivity,15,Cerebral EEG
+0,0.9098428453267163,Rem,Sensitivity,15,Cerebral EEG
+0,0.8889112497484404,Wakefulness,Specificity,15,Cerebral EEG
+0,0.8536196502416422,Nrem,Specificity,15,Cerebral EEG
+0,0.9884020151498677,Rem,Specificity,15,Cerebral EEG
+0,0.8930330015715034,Wakefulness,Precision,15,Cerebellar EEG
+0,0.7252499193808449,Nrem,Precision,15,Cerebellar EEG
+0,0.3808353808353808,Rem,Precision,15,Cerebellar EEG
+0,0.9038278019298059,Wakefulness,Recall,15,Cerebellar EEG
+0,0.7729407721388475,Nrem,Recall,15,Cerebellar EEG
+0,0.1282051282051282,Rem,Recall,15,Cerebellar EEG
+0,0.9038278019298059,Wakefulness,Sensitivity,15,Cerebellar EEG
+0,0.7729407721388475,Nrem,Sensitivity,15,Cerebellar EEG
+0,0.1282051282051282,Rem,Sensitivity,15,Cerebellar EEG
+0,0.7945260615818072,Wakefulness,Specificity,15,Cerebellar EEG
+0,0.8726520850979025,Nrem,Specificity,15,Cerebellar EEG
+0,0.9908665869305209,Rem,Specificity,15,Cerebellar EEG
+0,0.8078037673359553,Wakefulness,Precision,15,EMG
+0,0.5626867455479861,Nrem,Precision,15,EMG
+0,0.15689810640216412,Rem,Precision,15,EMG
+0,0.8275898632170502,Wakefulness,Recall,15,EMG
+0,0.5393515866651392,Nrem,Recall,15,EMG
+0,0.14392059553349876,Rem,Recall,15,EMG
+0,0.8275898632170502,Wakefulness,Sensitivity,15,EMG
+0,0.5393515866651392,Nrem,Sensitivity,15,EMG
+0,0.14392059553349876,Rem,Sensitivity,15,EMG
+0,0.626282954316764,Wakefulness,Specificity,15,EMG
+0,0.8176971750286482,Nrem,Specificity,15,EMG
+0,0.9661121380160197,Rem,Specificity,15,EMG
+0,0.9110761979575805,Wakefulness,Precision,15,Cerebral EEG
+0,0.8579713575571073,Nrem,Precision,15,Cerebral EEG
+0,0.857484076433121,Rem,Precision,15,Cerebral EEG
+0,0.9353225806451613,Wakefulness,Recall,15,Cerebral EEG
+0,0.8092208082161196,Nrem,Recall,15,Cerebral EEG
+0,0.8671497584541062,Rem,Recall,15,Cerebral EEG
+0,0.9353225806451613,Wakefulness,Sensitivity,15,Cerebral EEG
+0,0.8092208082161196,Nrem,Sensitivity,15,Cerebral EEG
+0,0.8671497584541062,Rem,Sensitivity,15,Cerebral EEG
+0,0.8335294117647059,Wakefulness,Specificity,15,Cerebral EEG
+0,0.9395222255820985,Nrem,Specificity,15,Cerebral EEG
+0,0.9935046084621526,Rem,Specificity,15,Cerebral EEG
+0,0.775482515646199,Wakefulness,Precision,15,Cerebellar EEG
+0,0.7559309849029475,Nrem,Precision,15,Cerebellar EEG
+0,0.4754521963824289,Rem,Precision,15,Cerebellar EEG
+0,0.9526344086021505,Wakefulness,Recall,15,Cerebellar EEG
+0,0.4695244474212994,Nrem,Recall,15,Cerebellar EEG
+0,0.14814814814814814,Rem,Recall,15,Cerebellar EEG
+0,0.9526344086021505,Wakefulness,Sensitivity,15,Cerebellar EEG
+0,0.4695244474212994,Nrem,Sensitivity,15,Cerebellar EEG
+0,0.14814814814814814,Rem,Sensitivity,15,Cerebellar EEG
+0,0.4970588235294118,Wakefulness,Specificity,15,Cerebellar EEG
+0,0.9315593186170749,Nrem,Specificity,15,Cerebellar EEG
+0,0.9926337179766311,Rem,Specificity,15,Cerebellar EEG
+0,0.8008480435083192,Wakefulness,Precision,15,EMG
+0,0.7308737308737309,Nrem,Precision,15,EMG
+0,0.14545454545454545,Rem,Precision,15,EMG
+0,0.9341935483870968,Wakefulness,Recall,15,EMG
+0,0.5705514623799955,Nrem,Recall,15,EMG
+0,0.01288244766505636,Rem,Recall,15,EMG
+0,0.9341935483870968,Wakefulness,Sensitivity,15,EMG
+0,0.5705514623799955,Nrem,Sensitivity,15,EMG
+0,0.01288244766505636,Rem,Sensitivity,15,EMG
+0,0.5763725490196079,Wakefulness,Specificity,15,EMG
+0,0.9051506904545913,Nrem,Specificity,15,EMG
+0,0.996589012265041,Rem,Specificity,15,EMG
+0,0.93843452650657,Wakefulness,Precision,15,Cerebral EEG
+0,0.7614455385240078,Nrem,Precision,15,Cerebral EEG
+0,0.8298530549110595,Rem,Precision,15,Cerebral EEG
+0,0.8759251427363078,Wakefulness,Recall,15,Cerebral EEG
+0,0.8721078944308801,Nrem,Recall,15,Cerebral EEG
+0,0.8363211223694466,Rem,Recall,15,Cerebral EEG
+0,0.8759251427363078,Wakefulness,Sensitivity,15,Cerebral EEG
+0,0.8721078944308801,Nrem,Sensitivity,15,Cerebral EEG
+0,0.8363211223694466,Rem,Sensitivity,15,Cerebral EEG
+0,0.8900242816673412,Wakefulness,Specificity,15,Cerebral EEG
+0,0.8836576068122184,Nrem,Specificity,15,Cerebral EEG
+0,0.9920049423992441,Rem,Specificity,15,Cerebral EEG
+0,0.842465103029152,Wakefulness,Precision,15,Cerebellar EEG
+0,0.7465213025390905,Nrem,Precision,15,Cerebellar EEG
+0,0.2711864406779661,Rem,Precision,15,Cerebellar EEG
+0,0.9380418693169803,Wakefulness,Recall,15,Cerebellar EEG
+0,0.6050459248924543,Nrem,Recall,15,Cerebellar EEG
+0,0.16212003117692908,Rem,Recall,15,Cerebellar EEG
+0,0.9380418693169803,Wakefulness,Sensitivity,15,Cerebellar EEG
+0,0.6050459248924543,Nrem,Sensitivity,15,Cerebellar EEG
+0,0.16212003117692908,Rem,Sensitivity,15,Cerebellar EEG
+0,0.6643059490084986,Wakefulness,Specificity,15,Cerebellar EEG
+0,0.9125204218030596,Nrem,Specificity,15,Cerebellar EEG
+0,0.9796852854598975,Rem,Specificity,15,Cerebellar EEG
+0,0.7988374692600044,Wakefulness,Precision,15,EMG
+0,0.7224936815501264,Nrem,Precision,15,EMG
+0,0.178,Rem,Precision,15,EMG
+0,0.9444914358215267,Wakefulness,Recall,15,EMG
+0,0.49854668061853274,Nrem,Recall,15,EMG
+0,0.06936866718628215,Rem,Recall,15,EMG
+0,0.9444914358215267,Wakefulness,Sensitivity,15,EMG
+0,0.49854668061853274,Nrem,Sensitivity,15,EMG
+0,0.06936866718628215,Rem,Sensitivity,15,EMG
+0,0.5448199109672197,Wakefulness,Specificity,15,EMG
+0,0.9184613099658399,Nrem,Specificity,15,EMG
+0,0.9850637787549514,Rem,Specificity,15,EMG
+0,0.9234328986116954,Wakefulness,Precision,15,Cerebral EEG
+0,0.8443141852286049,Nrem,Precision,15,Cerebral EEG
+0,0.8779904306220095,Rem,Precision,15,Cerebral EEG
+0,0.9284619045101253,Wakefulness,Recall,15,Cerebral EEG
+0,0.8402753471006884,Nrem,Recall,15,Cerebral EEG
+0,0.8366261398176292,Rem,Recall,15,Cerebral EEG
+0,0.9284619045101253,Wakefulness,Sensitivity,15,Cerebral EEG
+0,0.8402753471006884,Nrem,Sensitivity,15,Cerebral EEG
+0,0.8366261398176292,Rem,Sensitivity,15,Cerebral EEG
+0,0.8527359158490948,Wakefulness,Specificity,15,Cerebral EEG
+0,0.934351673340254,Nrem,Specificity,15,Cerebral EEG
+0,0.994433124727114,Rem,Specificity,15,Cerebral EEG
+0,0.8023776160556887,Wakefulness,Precision,15,Cerebellar EEG
+0,0.7358771060455896,Nrem,Precision,15,Cerebellar EEG
+0,0.32263242375601925,Rem,Precision,15,Cerebellar EEG
+0,0.9385607783006398,Wakefulness,Recall,15,Cerebellar EEG
+0,0.51977598879944,Nrem,Recall,15,Cerebellar EEG
+0,0.15273556231003038,Rem,Recall,15,Cerebellar EEG
+0,0.9385607783006398,Wakefulness,Sensitivity,15,Cerebellar EEG
+0,0.51977598879944,Nrem,Sensitivity,15,Cerebellar EEG
+0,0.15273556231003038,Rem,Sensitivity,15,Cerebellar EEG
+0,0.557803175887529,Wakefulness,Specificity,15,Cerebellar EEG
+0,0.9209550645113451,Nrem,Specificity,15,Cerebellar EEG
+0,0.984645611992432,Rem,Specificity,15,Cerebellar EEG
+0,0.7742506694307679,Wakefulness,Precision,15,EMG
+0,0.7235476233837188,Nrem,Precision,15,EMG
+0,0.2967741935483871,Rem,Precision,15,EMG
+0,0.9478665468196479,Wakefulness,Recall,15,EMG
+0,0.4635398436588496,Nrem,Recall,15,EMG
+0,0.034954407294832825,Rem,Recall,15,EMG
+0,0.9478665468196479,Wakefulness,Sensitivity,15,EMG
+0,0.4635398436588496,Nrem,Sensitivity,15,EMG
+0,0.034954407294832825,Rem,Sensitivity,15,EMG
+0,0.4713259836148478,Wakefulness,Specificity,15,EMG
+0,0.9249592169657422,Nrem,Specificity,15,EMG
+0,0.99603405617814,Rem,Specificity,15,EMG
+0,0.8842740327084164,Wakefulness,Precision,15,Cerebral EEG
+0,0.8388529886914378,Nrem,Precision,15,Cerebral EEG
+0,0.8153495440729484,Rem,Precision,15,Cerebral EEG
+0,0.9352423139798555,Wakefulness,Recall,15,Cerebral EEG
+0,0.7289424426766495,Nrem,Recall,15,Cerebral EEG
+0,0.8324282389449186,Rem,Recall,15,Cerebral EEG
+0,0.9352423139798555,Wakefulness,Sensitivity,15,Cerebral EEG
+0,0.7289424426766495,Nrem,Sensitivity,15,Cerebral EEG
+0,0.8324282389449186,Rem,Sensitivity,15,Cerebral EEG
+0,0.7640540815289214,Wakefulness,Specificity,15,Cerebral EEG
+0,0.9408947264467706,Nrem,Specificity,15,Cerebral EEG
+0,0.991167169495838,Rem,Specificity,15,Cerebral EEG
+0,0.8672324946953622,Wakefulness,Precision,15,Cerebellar EEG
+0,0.6925488304798649,Nrem,Precision,15,Cerebellar EEG
+0,0.24859550561797752,Rem,Precision,15,Cerebellar EEG
+0,0.9052365132099351,Wakefulness,Recall,15,Cerebellar EEG
+0,0.671970051474029,Nrem,Recall,15,Cerebellar EEG
+0,0.1373157486423584,Rem,Recall,15,Cerebellar EEG
+0,0.9052365132099351,Wakefulness,Sensitivity,15,Cerebellar EEG
+0,0.671970051474029,Nrem,Sensitivity,15,Cerebellar EEG
+0,0.1373157486423584,Rem,Sensitivity,15,Cerebellar EEG
+0,0.7328453796889296,Wakefulness,Specificity,15,Cerebellar EEG
+0,0.8740865099743236,Nrem,Specificity,15,Cerebellar EEG
+0,0.9805532332521537,Rem,Specificity,15,Cerebellar EEG
+0,0.7897667625176868,Wakefulness,Precision,15,EMG
+0,0.6633055677334503,Nrem,Precision,15,EMG
+0,0.14583333333333334,Rem,Precision,15,EMG
+0,0.9124611084743975,Wakefulness,Recall,15,EMG
+0,0.5310014038371549,Nrem,Recall,15,EMG
+0,0.005430566330488751,Rem,Recall,15,EMG
+0,0.9124611084743975,Wakefulness,Sensitivity,15,EMG
+0,0.5310014038371549,Nrem,Sensitivity,15,EMG
+0,0.005430566330488751,Rem,Sensitivity,15,EMG
+0,0.5317678153908711,Wakefulness,Specificity,15,EMG
+0,0.8862334584238594,Nrem,Specificity,15,EMG
+0,0.9985096870342772,Rem,Specificity,15,EMG
+0,0.941567801308349,Wakefulness,Precision,15,Cerebral EEG
+0,0.8079210023359524,Nrem,Precision,15,Cerebral EEG
+0,0.8325892857142857,Rem,Precision,15,Cerebral EEG
+0,0.9011513768769566,Wakefulness,Recall,15,Cerebral EEG
+0,0.8708938995078402,Nrem,Recall,15,Cerebral EEG
+0,0.9202302631578947,Rem,Recall,15,Cerebral EEG
+0,0.9011513768769566,Wakefulness,Sensitivity,15,Cerebral EEG
+0,0.8708938995078402,Nrem,Sensitivity,15,Cerebral EEG
+0,0.9202302631578947,Rem,Sensitivity,15,Cerebral EEG
+0,0.8941022807193811,Wakefulness,Specificity,15,Cerebral EEG
+0,0.9098340228280916,Nrem,Specificity,15,Cerebral EEG
+0,0.9918430974477959,Rem,Specificity,15,Cerebral EEG
+0,0.8550635311966622,Wakefulness,Precision,15,Cerebellar EEG
+0,0.8147795318454001,Nrem,Precision,15,Cerebellar EEG
+0,0.6055555555555555,Rem,Precision,15,Cerebellar EEG
+0,0.9569162200880776,Wakefulness,Recall,15,Cerebellar EEG
+0,0.6852466521689367,Nrem,Recall,15,Cerebellar EEG
+0,0.17927631578947367,Rem,Recall,15,Cerebellar EEG
+0,0.9569162200880776,Wakefulness,Sensitivity,15,Cerebellar EEG
+0,0.6852466521689367,Nrem,Sensitivity,15,Cerebellar EEG
+0,0.17927631578947367,Rem,Sensitivity,15,Cerebellar EEG
+0,0.6928564251984326,Wakefulness,Specificity,15,Cerebellar EEG
+0,0.9321636843941584,Nrem,Specificity,15,Cerebellar EEG
+0,0.9948520881670534,Rem,Specificity,15,Cerebellar EEG
+0,0.8283861539866655,Wakefulness,Precision,15,EMG
+0,0.7925618610164469,Nrem,Precision,15,EMG
+0,0.27450980392156865,Rem,Precision,15,EMG
+0,0.9624873985249642,Wakefulness,Recall,15,EMG
+0,0.61222387547213,Nrem,Recall,15,EMG
+0,0.03453947368421053,Rem,Recall,15,EMG
+0,0.9624873985249642,Wakefulness,Sensitivity,15,EMG
+0,0.61222387547213,Nrem,Sensitivity,15,EMG
+0,0.03453947368421053,Rem,Sensitivity,15,EMG
+0,0.6224253993770722,Wakefulness,Specificity,15,EMG
+0,0.930219807606041,Nrem,Specificity,15,EMG
+0,0.995975928074246,Rem,Specificity,15,EMG
+0,0.9067923719734304,Wakefulness,Precision,15,Cerebral EEG
+0,0.7857466576025379,Nrem,Precision,15,Cerebral EEG
+0,0.8376722817764165,Rem,Precision,15,Cerebral EEG
+0,0.8975609756097561,Wakefulness,Recall,15,Cerebral EEG
+0,0.8007158526729015,Nrem,Recall,15,Cerebral EEG
+0,0.8553557466770915,Rem,Recall,15,Cerebral EEG
+0,0.8975609756097561,Wakefulness,Sensitivity,15,Cerebral EEG
+0,0.8007158526729015,Nrem,Sensitivity,15,Cerebral EEG
+0,0.8553557466770915,Rem,Sensitivity,15,Cerebral EEG
+0,0.8249496981891348,Wakefulness,Specificity,15,Cerebral EEG
+0,0.9061025870202095,Nrem,Specificity,15,Cerebral EEG
+0,0.992296791541005,Rem,Specificity,15,Cerebral EEG
+0,0.8643138763342629,Wakefulness,Precision,15,Cerebellar EEG
+0,0.7861372812920592,Nrem,Precision,15,Cerebellar EEG
+0,0.4318181818181818,Rem,Precision,15,Cerebellar EEG
+0,0.9531283138918346,Wakefulness,Recall,15,Cerebellar EEG
+0,0.6744024939383443,Nrem,Recall,15,Cerebellar EEG
+0,0.1931196247068022,Rem,Recall,15,Cerebellar EEG
+0,0.9531283138918346,Wakefulness,Sensitivity,15,Cerebellar EEG
+0,0.6744024939383443,Nrem,Sensitivity,15,Cerebellar EEG
+0,0.1931196247068022,Rem,Sensitivity,15,Cerebellar EEG
+0,0.7160965794768611,Wakefulness,Specificity,15,Cerebellar EEG
+0,0.9210983663538408,Nrem,Specificity,15,Cerebellar EEG
+0,0.9881908360888049,Rem,Specificity,15,Cerebellar EEG
+0,0.8259310986964619,Wakefulness,Precision,15,EMG
+0,0.7429690779347978,Nrem,Precision,15,EMG
+0,0.16184971098265896,Rem,Precision,15,EMG
+0,0.9406680805938494,Wakefulness,Recall,15,EMG
+0,0.6130931763075858,Nrem,Recall,15,EMG
+0,0.0218921032056294,Rem,Recall,15,EMG
+0,0.9406680805938494,Wakefulness,Sensitivity,15,EMG
+0,0.6130931763075858,Nrem,Sensitivity,15,EMG
+0,0.0218921032056294,Rem,Sensitivity,15,EMG
+0,0.6238430583501006,Wakefulness,Specificity,15,EMG
+0,0.9087839515368191,Nrem,Specificity,15,EMG
+0,0.9947312961011591,Rem,Specificity,15,EMG
+0,0.9252721873968988,Wakefulness,Precision,15,Cerebral EEG
+0,0.808404255319149,Nrem,Precision,15,Cerebral EEG
+0,0.8640856672158155,Rem,Precision,15,Cerebral EEG
+0,0.9055050314803853,Wakefulness,Recall,15,Cerebral EEG
+0,0.8502853306478684,Nrem,Recall,15,Cerebral EEG
+0,0.81953125,Rem,Recall,15,Cerebral EEG
+0,0.9055050314803853,Wakefulness,Sensitivity,15,Cerebral EEG
+0,0.8502853306478684,Nrem,Sensitivity,15,Cerebral EEG
+0,0.81953125,Rem,Sensitivity,15,Cerebral EEG
+0,0.8669863952236468,Wakefulness,Specificity,15,Cerebral EEG
+0,0.9093289029854503,Nrem,Specificity,15,Cerebral EEG
+0,0.9940043604651163,Rem,Specificity,15,Cerebral EEG
+0,0.858948407800543,Wakefulness,Precision,15,Cerebellar EEG
+0,0.7462944664031621,Nrem,Precision,15,Cerebellar EEG
+0,0.2383073496659243,Rem,Precision,15,Cerebellar EEG
+0,0.9362320400365925,Wakefulness,Recall,15,Cerebellar EEG
+0,0.6760657938905673,Nrem,Recall,15,Cerebellar EEG
+0,0.08359375,Rem,Recall,15,Cerebellar EEG
+0,0.9362320400365925,Wakefulness,Sensitivity,15,Cerebellar EEG
+0,0.6760657938905673,Nrem,Sensitivity,15,Cerebellar EEG
+0,0.08359375,Rem,Sensitivity,15,Cerebellar EEG
+0,0.7203680140941568,Wakefulness,Specificity,15,Cerebellar EEG
+0,0.8965916528218295,Nrem,Specificity,15,Cerebellar EEG
+0,0.9875726744186046,Rem,Specificity,15,Cerebellar EEG
+0,0.7870322550354477,Wakefulness,Precision,15,EMG
+0,0.6695156695156695,Nrem,Precision,15,EMG
+0,0.27692307692307694,Rem,Precision,15,EMG
+0,0.9020610235161168,Wakefulness,Recall,15,EMG
+0,0.5521987244041625,Nrem,Recall,15,EMG
+0,0.028125,Rem,Recall,15,EMG
+0,0.9020610235161168,Wakefulness,Sensitivity,15,EMG
+0,0.5521987244041625,Nrem,Sensitivity,15,EMG
+0,0.028125,Rem,Sensitivity,15,EMG
+0,0.5560340608789273,Wakefulness,Specificity,15,EMG
+0,0.8773599154206313,Nrem,Specificity,15,EMG
+0,0.9965843023255814,Rem,Specificity,15,EMG
+0,0.967451897140802,Wakefulness,Precision,15,Cerebral EEG
+0,0.7286207218129255,Nrem,Precision,15,Cerebral EEG
+0,0.8134863701578192,Rem,Precision,15,Cerebral EEG
+0,0.8460449756250983,Wakefulness,Recall,15,Cerebral EEG
+0,0.9240685984624483,Nrem,Recall,15,Cerebral EEG
+0,0.8943217665615142,Rem,Recall,15,Cerebral EEG
+0,0.8460449756250983,Wakefulness,Sensitivity,15,Cerebral EEG
+0,0.9240685984624483,Nrem,Sensitivity,15,Cerebral EEG
+0,0.8943217665615142,Rem,Sensitivity,15,Cerebral EEG
+0,0.9441530391854366,Wakefulness,Specificity,15,Cerebral EEG
+0,0.8569673138363234,Nrem,Specificity,15,Cerebral EEG
+0,0.9905564434113032,Rem,Specificity,15,Cerebral EEG
+0,0.8974463738508682,Wakefulness,Precision,15,Cerebellar EEG
+0,0.7383007723761926,Nrem,Precision,15,Cerebellar EEG
+0,0.41346153846153844,Rem,Precision,15,Cerebellar EEG
+0,0.9211091890758505,Wakefulness,Recall,15,Cerebellar EEG
+0,0.768775872264932,Nrem,Recall,15,Cerebellar EEG
+0,0.13564668769716087,Rem,Recall,15,Cerebellar EEG
+0,0.9211091890758505,Wakefulness,Sensitivity,15,Cerebellar EEG
+0,0.768775872264932,Nrem,Sensitivity,15,Cerebellar EEG
+0,0.13564668769716087,Rem,Sensitivity,15,Cerebellar EEG
+0,0.7934793787925537,Wakefulness,Specificity,15,Cerebellar EEG
+0,0.8867535020889653,Nrem,Specificity,15,Cerebellar EEG
+0,0.991137585355223,Rem,Specificity,15,Cerebellar EEG
+0,0.8240925215025026,Wakefulness,Precision,15,EMG
+0,0.6540266798418972,Nrem,Precision,15,EMG
+0,0.248,Rem,Precision,15,EMG
+0,0.8889762541280075,Wakefulness,Recall,15,EMG
+0,0.6262566528681254,Nrem,Recall,15,EMG
+0,0.02444794952681388,Rem,Recall,15,EMG
+0,0.8889762541280075,Wakefulness,Sensitivity,15,EMG
+0,0.6262566528681254,Nrem,Sensitivity,15,EMG
+0,0.02444794952681388,Rem,Sensitivity,15,EMG
+0,0.6276869279029106,Wakefulness,Specificity,15,EMG
+0,0.8623248955517326,Nrem,Specificity,15,EMG
+0,0.9965857910794712,Rem,Specificity,15,EMG
+0,0.9196170118013806,Wakefulness,Precision,15,Cerebral EEG
+0,0.7724500525762356,Nrem,Precision,15,Cerebral EEG
+0,0.782051282051282,Rem,Precision,15,Cerebral EEG
+0,0.8811136593951677,Wakefulness,Recall,15,Cerebral EEG
+0,0.8270659761315019,Nrem,Recall,15,Cerebral EEG
+0,0.8870829769033362,Rem,Recall,15,Cerebral EEG
+0,0.8811136593951677,Wakefulness,Sensitivity,15,Cerebral EEG
+0,0.8270659761315019,Nrem,Sensitivity,15,Cerebral EEG
+0,0.8870829769033362,Rem,Sensitivity,15,Cerebral EEG
+0,0.8563327032136105,Wakefulness,Specificity,15,Cerebral EEG
+0,0.8913545536700472,Nrem,Specificity,15,Cerebral EEG
+0,0.9895407332344106,Rem,Specificity,15,Cerebral EEG
+0,0.921161825726141,Wakefulness,Precision,15,Cerebellar EEG
+0,0.7453422996362032,Nrem,Precision,15,Cerebellar EEG
+0,0.25597269624573377,Rem,Precision,15,Cerebellar EEG
+0,0.9117286255266948,Wakefulness,Recall,15,Cerebellar EEG
+0,0.7612024318847106,Nrem,Recall,15,Cerebellar EEG
+0,0.2566295979469632,Rem,Recall,15,Cerebellar EEG
+0,0.9117286255266948,Wakefulness,Sensitivity,15,Cerebellar EEG
+0,0.7612024318847106,Nrem,Sensitivity,15,Cerebellar EEG
+0,0.2566295979469632,Rem,Sensitivity,15,Cerebellar EEG
+0,0.8544423440453687,Wakefulness,Specificity,15,Cerebellar EEG
+0,0.8840245004518525,Nrem,Specificity,15,Cerebellar EEG
+0,0.9684412435308168,Rem,Specificity,15,Cerebellar EEG
+0,0.8192138904789162,Wakefulness,Precision,15,EMG
+0,0.7077780799564862,Nrem,Precision,15,EMG
+0,0.1970954356846473,Rem,Precision,15,EMG
+0,0.915995519761054,Wakefulness,Recall,15,EMG
+0,0.5860166629137582,Nrem,Recall,15,EMG
+0,0.08126603934987169,Rem,Recall,15,EMG
+0,0.915995519761054,Wakefulness,Sensitivity,15,EMG
+0,0.5860166629137582,Nrem,Sensitivity,15,EMG
+0,0.08126603934987169,Rem,Sensitivity,15,EMG
+0,0.6229230922296289,Wakefulness,Specificity,15,EMG
+0,0.8921076413294508,Nrem,Specificity,15,EMG
+0,0.9859939922550758,Rem,Specificity,15,EMG
+0,0.9134171232140939,Wakefulness,Precision,15,Cerebral EEG
+0,0.8297704770477048,Nrem,Precision,15,Cerebral EEG
+0,0.866306027820711,Rem,Precision,15,Cerebral EEG
+0,0.9187466234467855,Wakefulness,Recall,15,Cerebral EEG
+0,0.821452439296057,Nrem,Recall,15,Cerebral EEG
+0,0.854420731707317,Rem,Recall,15,Cerebral EEG
+0,0.9187466234467855,Wakefulness,Sensitivity,15,Cerebral EEG
+0,0.821452439296057,Nrem,Sensitivity,15,Cerebral EEG
+0,0.854420731707317,Rem,Sensitivity,15,Cerebral EEG
+0,0.8433430515063168,Wakefulness,Specificity,15,Cerebral EEG
+0,0.9236706689536878,Nrem,Specificity,15,Cerebral EEG
+0,0.9937063445867288,Rem,Specificity,15,Cerebral EEG
+0,0.8477087626336964,Wakefulness,Precision,15,Cerebellar EEG
+0,0.7478930010993038,Nrem,Precision,15,Cerebellar EEG
+0,0.4069264069264069,Rem,Precision,15,Cerebellar EEG
+0,0.9334413830361966,Wakefulness,Recall,15,Cerebellar EEG
+0,0.6820004455335263,Nrem,Recall,15,Cerebellar EEG
+0,0.07164634146341463,Rem,Recall,15,Cerebellar EEG
+0,0.9334413830361966,Wakefulness,Sensitivity,15,Cerebellar EEG
+0,0.6820004455335263,Nrem,Sensitivity,15,Cerebellar EEG
+0,0.07164634146341463,Rem,Sensitivity,15,Cerebellar EEG
+0,0.6983479105928085,Wakefulness,Specificity,15,Cerebellar EEG
+0,0.8958732721218847,Nrem,Specificity,15,Cerebellar EEG
+0,0.9950160069848661,Rem,Specificity,15,Cerebellar EEG
+0,0.7851708331364302,Wakefulness,Precision,15,EMG
+0,0.6581604803493449,Nrem,Precision,15,EMG
+0,0.18006430868167203,Rem,Precision,15,EMG
+0,0.897622906537007,Wakefulness,Recall,15,EMG
+0,0.5372020494542215,Nrem,Recall,15,EMG
+0,0.042682926829268296,Rem,Recall,15,EMG
+0,0.897622906537007,Wakefulness,Sensitivity,15,EMG
+0,0.5372020494542215,Nrem,Sensitivity,15,EMG
+0,0.042682926829268296,Rem,Sensitivity,15,EMG
+0,0.5582118561710399,Wakefulness,Specificity,15,EMG
+0,0.8736252648572294,Nrem,Specificity,15,EMG
+0,0.9907232246798603,Rem,Specificity,15,EMG
+0,0.9266759032292444,Wakefulness,Precision,15,Cerebral EEG
+0,0.8414855072463768,Nrem,Precision,15,Cerebral EEG
+0,0.9151414309484193,Rem,Precision,15,Cerebral EEG
+0,0.9296482412060302,Wakefulness,Recall,15,Cerebral EEG
+0,0.8537622056289489,Nrem,Recall,15,Cerebral EEG
+0,0.7919366450683946,Rem,Recall,15,Cerebral EEG
+0,0.9296482412060302,Wakefulness,Sensitivity,15,Cerebral EEG
+0,0.8537622056289489,Nrem,Sensitivity,15,Cerebral EEG
+0,0.7919366450683946,Rem,Sensitivity,15,Cerebral EEG
+0,0.8636813948880523,Wakefulness,Specificity,15,Cerebral EEG
+0,0.930330928091565,Nrem,Specificity,15,Cerebral EEG
+0,0.9962788661486265,Rem,Specificity,15,Cerebral EEG
+0,0.9174632654175998,Wakefulness,Precision,15,Cerebellar EEG
+0,0.7187843646905928,Nrem,Precision,15,Cerebellar EEG
+0,0.5469387755102041,Rem,Precision,15,Cerebellar EEG
+0,0.8978937239388431,Wakefulness,Recall,15,Cerebellar EEG
+0,0.8259620907524411,Nrem,Recall,15,Cerebellar EEG
+0,0.1929445644348452,Rem,Recall,15,Cerebellar EEG
+0,0.8978937239388431,Wakefulness,Sensitivity,15,Cerebellar EEG
+0,0.8259620907524411,Nrem,Sensitivity,15,Cerebellar EEG
+0,0.1929445644348452,Rem,Sensitivity,15,Cerebellar EEG
+0,0.8503071131365167,Wakefulness,Specificity,15,Cerebellar EEG
+0,0.8600149290868375,Nrem,Specificity,15,Cerebellar EEG
+0,0.9919010616175987,Rem,Specificity,15,Cerebellar EEG
+0,0.8697053638881894,Wakefulness,Precision,15,EMG
+0,0.732231779085559,Nrem,Precision,15,EMG
+0,0.3486238532110092,Rem,Precision,15,EMG
+0,0.9231262696461029,Wakefulness,Recall,15,EMG
+0,0.7432510051694429,Nrem,Recall,15,EMG
+0,0.027357811375089993,Rem,Recall,15,EMG
+0,0.9231262696461029,Wakefulness,Sensitivity,15,EMG
+0,0.7432510051694429,Nrem,Sensitivity,15,EMG
+0,0.027357811375089993,Rem,Sensitivity,15,EMG
+0,0.7437091341390926,Wakefulness,Specificity,15,EMG
+0,0.882259268474745,Nrem,Specificity,15,EMG
+0,0.9974097989858086,Rem,Specificity,15,EMG
+0,0.8852952993169948,Wakefulness,Precision,15,Cerebral EEG
+0,0.8628393297830887,Nrem,Precision,15,Cerebral EEG
+0,0.8536585365853658,Rem,Precision,15,Cerebral EEG
+0,0.9425729868463266,Wakefulness,Recall,15,Cerebral EEG
+0,0.748422712933754,Nrem,Recall,15,Cerebral EEG
+0,0.8306055646481179,Rem,Recall,15,Cerebral EEG
+0,0.9425729868463266,Wakefulness,Sensitivity,15,Cerebral EEG
+0,0.748422712933754,Nrem,Sensitivity,15,Cerebral EEG
+0,0.8306055646481179,Rem,Sensitivity,15,Cerebral EEG
+0,0.7738165973460092,Wakefulness,Specificity,15,Cerebral EEG
+0,0.9469985946597069,Nrem,Specificity,15,Cerebral EEG
+0,0.9936906229603307,Rem,Specificity,15,Cerebral EEG
+0,0.9433951721054984,Wakefulness,Precision,15,Cerebellar EEG
+0,0.746638433033351,Nrem,Precision,15,Cerebellar EEG
+0,0.27553118574366003,Rem,Precision,15,Cerebellar EEG
+0,0.902737675114961,Wakefulness,Recall,15,Cerebellar EEG
+0,0.7945020279405137,Nrem,Recall,15,Cerebellar EEG
+0,0.32896890343698854,Rem,Recall,15,Cerebellar EEG
+0,0.902737675114961,Wakefulness,Sensitivity,15,Cerebellar EEG
+0,0.7945020279405137,Nrem,Sensitivity,15,Cerebellar EEG
+0,0.32896890343698854,Rem,Sensitivity,15,Cerebellar EEG
+0,0.8996831055654585,Wakefulness,Specificity,15,Cerebellar EEG
+0,0.8798935956635214,Nrem,Specificity,15,Cerebellar EEG
+0,0.9616723475233883,Rem,Specificity,15,Cerebellar EEG
+0,0.9045112005780943,Wakefulness,Precision,15,EMG
+0,0.7735932166061007,Nrem,Precision,15,EMG
+0,0.2927536231884058,Rem,Precision,15,EMG
+0,0.9370120842690621,Wakefulness,Recall,15,EMG
+0,0.7914601171698964,Nrem,Recall,15,EMG
+0,0.08265139116202946,Rem,Recall,15,EMG
+0,0.9370120842690621,Wakefulness,Sensitivity,15,EMG
+0,0.7914601171698964,Nrem,Sensitivity,15,EMG
+0,0.08265139116202946,Rem,Sensitivity,15,EMG
+0,0.8167954050306991,Wakefulness,Specificity,15,EMG
+0,0.8968078699056414,Nrem,Specificity,15,EMG
+0,0.9911523678294293,Rem,Specificity,15,EMG
